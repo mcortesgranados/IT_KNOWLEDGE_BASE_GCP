@@ -1,0 +1,94 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+02:50
+
+Course Introduction
+01:18
+About the Training Architect
+00:30
+Using the Interactive Diagram
+01:02
+
+CHAPTER 2
+
+Introduction to Cloud SQL
+01:51
+
+What Is Cloud SQL?
+01:51
+CHAPTER 3
+
+Creating and Managing Instances
+58:45
+
+Creating a MySQL Instance in Cloud SQL
+05:29
+Viewing and Editing Instance Information in Cloud SQL
+04:31
+Cloning a Cloud SQL Instance
+02:50
+Starting, Stopping, Restarting, and Deleting a Cloud SQL Instance
+07:41
+Configuring Private and Public IP Connectivity in Cloud SQL
+03:41
+Configuring SSL and Database Flags in Cloud SQL
+04:33
+HANDS-ON LAB
+Creating a Database and Table with Cloud SQL
+30:00
+CHAPTER 4
+
+Connecting to a Cloud SQL Instance
+1:56:20
+
+Connecting to Cloud SQL Using the Google Cloud Shell
+03:09
+Connecting to Cloud SQL from a Compute Engine Instance
+08:11
+
+HANDS-ON LAB
+Creating a MySQL Database in Cloud SQL
+30:00
+HANDS-ON LAB
+Cloning and Connecting to a Cloud SQL Instance
+1:15:00
+CHAPTER 5
+
+Replication and Data Management
+3:14:38
+
+Enabling and Disabling High Availability on a Cloud SQL Instance
+05:37
+Creating and Managing Read Replicas on Cloud SQL
+04:39
+Creating and Managing Automated Backups on Cloud SQL
+04:54
+Importing Data into Cloud SQL
+04:06
+
+Exporting Data from Cloud SQL
+06:07
+Creating and Managing Users
+04:15
+HANDS-ON LAB
+Creating a Cloud SQL Instance and Promoting Read Replica to Primary
+1:15:00
+HANDS-ON LAB
+Exporting and Importing Data between Cloud SQL Environments
+1:30:00
+CHAPTER 6
+
+Troubleshooting Cloud SQL
+1:00:00
+
+HANDS-ON LAB
+Troubleshooting a Connection Issue with Cloud SQL
+1:00:00
+CHAPTER 7
+
+Final Steps
+01:14
+
+What's Next?
