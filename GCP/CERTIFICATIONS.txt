@@ -1,0 +1,35 @@
+[1]
+Google Cloud Certified Cloud Digital Leader
+https://learn.acloud.guru/course/google-cloud-digital-leader/overview
+
+[2]
+Google Certified Associate Cloud Engineer
+https://learn.acloud.guru/course/google-certified-associate-cloud-engineer/dashboard
+
+[3]
+Google Certified Professional Cloud Architect
+https://learn.acloud.guru/course/google-certified-professional-cloud-architect/dashboard
+
+[4]
+Google Certified Professional Cloud Developer
+https://learn.acloud.guru/course/google-certified-professional-cloud-developer/overview
+
+[5]
+Google Certified Professional Cloud Network Engineer Exam Prep (LA Part 5)
+https://learn.acloud.guru/course/33124e2d-7413-4904-9b4a-e4a2ee68f9fd/overview
+
+[6]
+Google Certified Professional Cloud Network Engineer
+https://learn.acloud.guru/course/gcp-certified-professional-cloud-network-engineer/overview
+
+[7]
+Google Certified Professional Data Engineer
+https://learn.acloud.guru/course/gcp-certified-professional-data-engineer/overview
+
+[8]
+Google Cloud Certified Professional Data Engineer (LA)
+https://learn.acloud.guru/course/5f976530-ee6d-4311-93eb-029928768171/overview
+
+[9]
+Google Cloud Certified Professional Cloud Architect (LA)
+https://learn.acloud.guru/course/73e7ac67-e0f4-4cb6-ab6f-5e2bf7f22a04/overview
