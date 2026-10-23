@@ -1,0 +1,95 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+01:32
+
+Course Introduction
+00:49
+About the Training Architect
+00:43
+CHAPTER 2
+
+Identity and Access Management (IAM)
+05:15
+
+GCP IAM Overview
+02:24
+GCP Organization Hierarchy
+02:51
+CHAPTER 3
+
+Access to the Shell
+05:17
+
+AWS CloudShell vs. Google Cloud Shell
+05:17
+CHAPTER 4
+
+Network
+34:11
+
+Understanding GCP Network and Design
+01:52
+Virtual Networks
+05:21
+Content Delivery
+02:32
+DNS
+03:30
+Load Balancing
+05:56
+HANDS-ON LAB
+Create Our First VPC in Google Cloud
+15:00
+CHAPTER 5
+
+Compute
+51:57
+
+Elastic Cloud Compute vs. Google Compute Engine
+06:57
+HANDS-ON LAB
+Creating and Configuring a General Purpose Instance
+45:00
+CHAPTER 6
+
+Storage
+36:11
+
+Amazon S3 vs. Google Cloud Storage
+06:11
+HANDS-ON LAB
+Creating a Folder and Uploading an Object in Cloud Storage
+30:00
+CHAPTER 7
+
+Databases
+13:13
+
+Google Cloud Database Overview
+02:00
+Amazon RDS vs. Google’s SQL Databases
+05:04
+Amazon NoSQL vs. GCP NoSQL
+06:09
+CHAPTER 8
+
+Serverless
+04:54
+
+Google Cloud’s Serverless Services vs. AWS Serverless Services
+04:54
+CHAPTER 9
+
+Monitoring
+04:13
+
+Google Operations Suite vs. AWS CloudWatch and X-Ray
+04:13
+CHAPTER 10
+
+Conclusion
+02:25
+
+Conclusion and What’s Next
