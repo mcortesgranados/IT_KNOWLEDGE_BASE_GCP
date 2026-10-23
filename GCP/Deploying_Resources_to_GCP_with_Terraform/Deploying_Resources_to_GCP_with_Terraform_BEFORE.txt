@@ -1,0 +1,121 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+02:01
+
+Course Introduction
+01:16
+About the Training Architect
+00:45
+CHAPTER 2
+
+Overview
+06:53
+
+Why You Should Use Terraform to Manage GCP
+02:02
+What Is Terraform?
+02:17
+How Does Terraform Differ from Google Deployment Manager?
+02:34
+CHAPTER 3
+
+Creating Your Terraform Admin Project
+19:56
+
+Installing Terraform
+05:02
+
+Creating the Terraform Project and Service Account
+06:05
+
+Enabling APIs
+02:02
+Setting Up Remote State in Cloud Storage
+06:47
+
+CHAPTER 4
+
+Terraform `init`, `plan`, and `apply`
+1:48:31
+
+Understanding `terraform init`
+03:54
+
+Understanding `terraform plan`
+05:02
+Understanding `terraform apply`
+04:00
+Understanding `terraform output`
+05:35
+
+HANDS-ON LAB
+Installing and Configuring Terraform on a Compute Engine Instance
+45:00
+HANDS-ON LAB
+Terraform Basics: Understanding `init`, `plan`, and `apply`
+45:00
+CHAPTER 5
+
+Using Terraform to Create a New Project
+04:16
+
+Using Terraform Modules
+04:16
+
+CHAPTER 6
+
+Using Terraform to Create a New VPC
+1:28:44
+
+Defining Your Network Variables
+04:55
+
+Creating Firewalls and Associated Rules
+03:28
+
+Defining Public and Private Subnets
+05:21
+
+HANDS-ON LAB
+Using Terraform to Create a New VPC and Public Subnet in GCP
+1:15:00
+CHAPTER 7
+
+Using Terraform to Create Compute Engine Instances
+1:25:13
+
+Defining Your Instance Variables
+05:20
+
+Setting Up Startup Script
+04:53
+
+HANDS-ON LAB
+Using Terraform to Launch a Compute Engine Instance in GCP
+1:15:00
+CHAPTER 8
+
+Using Terraform to Auto Scale and Load Balance the Managed Instance Groups
+1:08:25
+
+Defining Your Auto Scaling and Load Balancing Variables
+08:25
+
+HANDS-ON LAB
+Using Terraform to Auto Scale and Load Balance Compute Engine Instances in GCP
+1:00:00
+CHAPTER 9
+
+Cleaning Up
+03:15
+
+Destroying Resources Using Terraform
+03:15
+CHAPTER 10
+
+Final Steps
+01:18
+
+What's Next?
