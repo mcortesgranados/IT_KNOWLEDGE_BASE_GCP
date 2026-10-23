@@ -1,0 +1,260 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+14:11
+
+About the Course Author
+00:28
+Course Features and Tools
+03:28
+
+Introduction to Implementing a Full CI/CD Pipeline
+10:15
+CHAPTER 2
+
+Source Control Management
+1:34:44
+
+Introduction to SCM
+05:04
+Installing Git
+06:17
+
+
+
+Creating GitHub Forks
+03:02
+
+Making Changes in Git
+10:12
+Branches and Tags
+06:15
+Pull Requests
+03:54
+QUIZ
+QUIZ: Source Control Management
+15:00
+HANDS-ON LAB
+Use Git to Make Changes to Code
+45:00
+CHAPTER 3
+
+Build Automation
+1:43:42
+
+Introducing Build Automation
+02:52
+
+Installing Gradle
+10:53
+
+
+Gradle Basics
+09:36
+
+
+Automated Testing
+05:21
+
+
+QUIZ
+QUIZ: Build Automation
+15:00
+HANDS-ON LAB
+Creating Build Automation with Gradle
+1:00:00
+CHAPTER 4
+
+Continuous Integration
+2:12:40
+
+CI Overview
+04:15
+
+Installing Jenkins
+06:34
+
+
+
+Setting Up Jenkins Projects
+06:57
+
+Triggering Builds with Git Hooks
+09:54
+
+QUIZ
+QUIZ: Continuous Integration
+15:00
+HANDS-ON LAB
+Installing Jenkins
+45:00
+HANDS-ON LAB
+Building an App as a Freestyle Jenkins Project
+45:00
+CHAPTER 5
+
+Continuous Delivery
+3:18:55
+
+Introducing Jenkins Pipelines
+06:23
+
+Jenkins Pipeline Stages and Steps
+05:41
+
+
+Deployment with Jenkins Pipelines
+21:51
+
+
+QUIZ
+QUIZ: Continuous Delivery
+15:00
+HANDS-ON LAB
+Building a Jenkins Pipeline
+1:00:00
+HANDS-ON LAB
+Implementing Automated Deployment Through a Jenkins Pipeline
+1:30:00
+CHAPTER 6
+
+Containers
+2:56:29
+
+Why Containers?
+06:46
+
+Installing Docker
+02:02
+
+Docker Basics
+09:14
+
+
+Building a Dockerfile
+08:26
+
+
+
+Running with Docker in Production
+01:50
+Installing Docker on Jenkins
+02:23
+
+Jenkins Pipelines CD and a Dockerized App
+10:48
+
+
+HANDS-ON LAB
+Dockerizing an App
+45:00
+HANDS-ON LAB
+Deploying a Docker Container with Jenkins Pipelines
+1:30:00
+CHAPTER 7
+
+Orchestration
+38:38
+
+Orchestration
+03:33
+
+Creating a Kubernetes Cluster
+10:53
+
+
+Kubernetes Basics
+08:25
+
+Deploying to Kubernetes with Jenkins
+15:47
+
+
+
+CHAPTER 8
+
+Monitoring
+2:10:40
+
+Monitoring
+05:06
+
+
+Installing Prometheus and Grafana
+14:11
+
+Cluster Monitoring
+04:27
+
+
+Application Monitoring
+10:44
+
+
+
+Alerting
+06:12
+
+HANDS-ON LAB
+Monitoring in Kubernetes with Prometheus and Grafana
+1:30:00
+CHAPTER 9
+
+Self-Healing
+15:34
+
+Kubernetes and Self-Healing
+05:46
+
+Creating Liveness Probes in Kubernetes
+09:48
+
+
+CHAPTER 10
+
+Autoscaling
+1:51:28
+
+Kubernetes and Autoscaling
+03:31
+Horizontal Pod Autoscalers in Kubernetes
+17:57
+
+
+HANDS-ON LAB
+Autoscaling in Kubernetes
+1:30:00
+CHAPTER 11
+
+Canary Testing
+1:26:38
+
+What is Canary Testing?
+03:50
+Implementing a Canary Test in Kubernetes
+10:06
+
+Kubernetes Canary Testing with Jenkins Pipelines
+12:42
+
+HANDS-ON LAB
+Canary Deployments with Kubernetes and Jenkins
+1:00:00
+CHAPTER 12
+
+Fully-Automated Deployment
+1:44:42
+
+Fully Automated Deployment
+14:42
+
+HANDS-ON LAB
+Implementing Fully-Automated Deployment in a CD Pipeline
+1:30:00
+CHAPTER 13
+
+Next Steps
+02:00
+
+Next Steps
