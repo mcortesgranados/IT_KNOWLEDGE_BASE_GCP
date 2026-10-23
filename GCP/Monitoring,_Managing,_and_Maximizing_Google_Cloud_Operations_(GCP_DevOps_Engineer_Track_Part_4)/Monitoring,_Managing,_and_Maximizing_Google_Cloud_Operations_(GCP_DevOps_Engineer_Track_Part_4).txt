@@ -1,0 +1,137 @@
+CHAPTER 01 Introduction
+01-01 About the Course and Learning Path
+
+01-02 Milestone Getting Started
+
+CHAPTER 02 Understanding Operations in Context
+02-01 Section Introduction
+
+02-02 What Is Ops?
+
+02-03 Clarifying the Stackdriver/Operations Connection
+
+02-04 Operations and SRE How Do They Relate?
+
+02-05 Operation Services at a Glance
+
+02-06 Section Review
+
+02-07 Milestone The Weight of the World (Teamwork, Not Superheroes)
+
+CHAPTER 03 Monitoring Your Operations
+03-01 Section Introduction
+
+03-02 Cloud Monitoring Concepts
+
+03-03 Monitoring Workspaces Concepts
+
+03-04 Monitoring Workspaces
+
+03-05 Perspective Workspaces in Context
+
+03-06 What Are Metrics?
+
+03-07 Exploring Workspace and Metrics
+
+03-08 Monitoring Agent Concepts
+
+03-09 Installing the Monitoring Agent
+
+03-10 Collecting Monitoring Agent Metrics
+
+03-11 Integration with Monitoring API
+
+03-12 Create Dashboards with Command Line
+
+03-13 GKE Metrics
+
+03-14 Perspective What's Up, Doc?
+
+03-15 Uptime Checks
+
+03-16 Establishing Human-Actionable and Automated Alerts
+
+03-17 Section Review
+
+03-18 HANDS-ON LAB Install and Configure Monitoring Agent with Google Cloud Monitoring
+
+03-19 Milestone Spies Everywhere! (Check Those Vitals!)
+
+CHAPTER 04 Logging Activities
+04-01 Section Introduction
+
+04-02 Cloud Logging Fundamentals
+
+04-03 Log Types and Mechanics
+
+04-04 Cloud Logging Tour
+
+04-05 Logging Agent Concepts
+
+04-06 Install Logging Agent and Collect Agent Logs
+
+04-07 Logging Filters
+
+04-08 Hands-On with Advanced Filters
+
+04-09 VPC Flow Logs
+
+04-10 Firewall Logs
+
+04-11 VPC Flow Logs and Firewall Logs Demo
+
+04-12 Routing and Exporting Logs
+
+04-13 Export Logs to BigQuery
+
+04-14 Logs-Based Metrics
+
+04-15 Section Review
+
+04-16 HANDS-ON LAB Install and Configure Logging Agent on Google Cloud
+
+04-17 Milestone Let the Record Show
+
+CHAPTER 05 SRE and Alerting Policies
+05-01 SLOs and Alerting Strategy
+
+05-02 Service Monitoring
+
+05-03 Milestone Come Together, Right Now, SRE
+
+CHAPTER 06 Optimize Performance with Trace/Profiler
+06-01 Section Introduction
+
+06-02 What the Services Do and Why They Matter
+
+06-03 Tracking Latency with Cloud Trace
+
+06-04 Accessing the Cloud Trace APIs
+
+06-05 Setting Up Your App with Cloud Profiler
+
+06-06 Analyzing Cloud Profiler Data
+
+06-07 HANDS-ON LAB Discovering Latency with Google Cloud Trace
+
+06-08 Section Review
+
+06-09 Milestone It All Adds Up!
+
+CHAPTER 07 Identifying Application Errors with Debug/Error Reporting
+07-01 Section Introduction
+
+07-02 Troubleshooting with Cloud Debugger
+
+07-03 Establishing Error Reporting for Your App
+
+07-04 Managing Errors and Handling Notifications
+
+07-05 Section Review
+
+07-06 Milestone Come Together - Reprise (Debug Is De Solution)
+
+CHAPTER 08 Course Conclusion
+08-01 Milestone Are We There, Yet?
+
+08-02 PRACTICE EXAM Google Certified Professional Cloud DevOps Engineer Exam Prep

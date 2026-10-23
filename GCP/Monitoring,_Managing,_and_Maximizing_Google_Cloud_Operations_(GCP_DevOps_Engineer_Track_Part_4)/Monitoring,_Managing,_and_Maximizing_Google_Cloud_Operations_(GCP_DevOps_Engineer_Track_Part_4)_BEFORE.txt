@@ -1,0 +1,202 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+07:46
+
+About the Course and Learning Path
+03:34
+
+
+
+Milestone: Getting Started
+04:12
+
+
+
+
+CHAPTER 2
+
+Understanding Operations in Context
+34:38
+
+Section Introduction
+01:10
+What Is Ops?
+07:35
+Clarifying the Stackdriver/Operations Connection
+04:57
+Operations and SRE: How Do They Relate?
+10:12
+Operation Services at a Glance
+05:01
+Section Review
+01:46
+Milestone: The Weight of the World (Teamwork, Not Superheroes)
+03:57
+CHAPTER 3
+
+Monitoring Your Operations
+2:50:08
+
+Section Introduction
+01:48
+Cloud Monitoring Concepts
+03:27
+Monitoring Workspaces Concepts
+11:08
+Monitoring Workspaces
+10:26
+Perspective: Workspaces in Context
+02:52
+
+What Are Metrics?
+05:30
+Exploring Workspace and Metrics
+12:30
+Monitoring Agent Concepts
+04:58
+
+Installing the Monitoring Agent
+10:28
+
+
+
+
+
+
+Collecting Monitoring Agent Metrics
+04:58
+Integration with Monitoring API
+07:33
+Create Dashboards with Command Line
+16:18
+
+
+GKE Metrics
+08:46
+
+Perspective: What's Up, Doc?
+03:20
+Uptime Checks
+11:48
+
+Establishing Human-Actionable and Automated Alerts
+16:33
+Section Review
+01:31
+HANDS-ON LAB
+Install and Configure Monitoring Agent with Google Cloud Monitoring
+30:00
+Milestone: Spies Everywhere! (Check Those Vitals!)
+06:14
+CHAPTER 4
+
+Logging Activities
+2:51:03
+
+Section Introduction
+01:39
+Cloud Logging Fundamentals
+09:18
+Log Types and Mechanics
+11:52
+Cloud Logging Tour
+13:36
+Logging Agent Concepts
+05:39
+Install Logging Agent and Collect Agent Logs
+09:45
+
+Logging Filters
+06:59
+Hands-On with Advanced Filters
+17:23
+VPC Flow Logs
+02:42
+Firewall Logs
+04:56
+VPC Flow Logs and Firewall Logs Demo
+10:13
+Routing and Exporting Logs
+08:08
+
+Export Logs to BigQuery
+09:24
+
+Logs-Based Metrics
+07:28
+Section Review
+01:10
+HANDS-ON LAB
+Install and Configure Logging Agent on Google Cloud
+45:00
+Milestone: Let the Record Show
+05:51
+CHAPTER 5
+
+SRE and Alerting Policies
+32:38
+
+SLOs and Alerting Strategy
+15:40
+
+Service Monitoring
+11:31
+
+Milestone: Come Together, Right Now, SRE
+05:27
+CHAPTER 6
+
+Optimize Performance with Trace/Profiler
+1:32:33
+
+Section Introduction
+01:28
+What the Services Do and Why They Matter
+08:21
+Tracking Latency with Cloud Trace
+09:04
+Accessing the Cloud Trace APIs
+08:34
+Setting Up Your App with Cloud Profiler
+05:15
+Analyzing Cloud Profiler Data
+08:45
+HANDS-ON LAB
+Discovering Latency with Google Cloud Trace
+45:00
+Section Review
+02:06
+Milestone: It All Adds Up!
+04:00
+CHAPTER 7
+
+Identifying Application Errors with Debug/Error Reporting
+43:28
+
+Section Introduction
+01:02
+Troubleshooting with Cloud Debugger
+15:40
+Establishing Error Reporting for Your App
+03:51
+Managing Errors and Handling Notifications
+13:50
+Section Review
+02:43
+Milestone: Come Together - Reprise (Debug Is De Solution)
+06:22
+CHAPTER 8
+
+Course Conclusion
+1:48:54
+
+Milestone: Are We There, Yet?
+03:54
+
+
+
+
+PRACTICE EXAM
+Google Certified Professional Cloud DevOps Engineer Exam Prep
