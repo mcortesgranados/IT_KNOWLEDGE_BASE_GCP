@@ -1,0 +1,90 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+10:49
+
+Course Introduction
+03:54
+
+
+
+About the Training Architect
+01:08
+Using the Interactive Diagram
+03:24
+Course Features and Tools
+02:23
+CHAPTER 2
+
+Overview
+29:31
+
+Orchestrating Containers with Kubernetes Engine
+13:13
+Understanding Kubernetes Engine Architecture
+07:46
+What Does Kubernetes Engine Cost?
+08:32
+CHAPTER 3
+
+Creating and Managing Clusters
+1:08:42
+
+Spinning up your First Cluster
+23:42
+Deploying to your Cluster
+10:51
+Scaling Clusters and Applications
+12:40
+Upgrading and Deleting Clusters
+11:32
+Hands-On Demonstration: Creating and Managing Clusters
+09:57
+CHAPTER 4
+
+Handling Security with Kubernetes Engine
+59:56
+
+Integrating with Cloud IAM
+12:30
+Managing Role-Based Access Control
+11:50
+Establishing a Pod Security Policy
+11:10
+Implementing Security Protocols
+13:39
+Hands-on Demonstration: Handling Security with Kubernetes Engine
+10:47
+CHAPTER 5
+
+Coordinating Networking and Kubernetes Engine
+32:18
+
+Configuring Load Balancers
+09:30
+Establishing a Network Policy
+09:10
+Creating a Private Cluster
+05:33
+Hands-on Demonstration: Coordinating Networking and Kubernetes Engine
+08:05
+CHAPTER 6
+
+Expanding Kubernetes Engine
+36:10
+
+Implementing Stateful Applications
+08:57
+Transitioning from On-Prem
+05:59
+Integrating Other Google Cloud Services
+10:56
+Monitoring and Logging with Stackdriver
+10:18
+CHAPTER 7
+
+Final Steps
+01:47
+
+What's Next?
