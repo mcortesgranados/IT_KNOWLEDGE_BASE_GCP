@@ -1,0 +1,93 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+06:45
+
+Course Introduction
+01:09
+
+Continuous Integration/Continuous Delivery (CI/CD) Overview
+04:35
+Prerequisites
+01:01
+CHAPTER 2
+
+Version Control with Cloud Source Repositories
+32:16
+
+Introduction
+00:39
+Version Control with Cloud Source Repositories
+03:34
+Demo: Setting Up a Cloud Source Repository
+06:08
+Demo: Mirroring a Cloud Source Repository from Another Version Control System (VCS)
+05:18
+Summary
+01:37
+QUIZ
+Version Control with Cloud Source Repositories
+15:00
+CHAPTER 3
+
+Using Artifact Registry
+34:08
+
+Introduction
+00:45
+Using Artifact Registry
+04:43
+Demo: Creating an Artifact Registry
+06:28
+Artifact Registry Security
+05:16
+Summary
+01:56
+QUIZ
+Using Artifact Registry
+15:00
+CHAPTER 4
+
+Building and Deploying Applications with Cloud Build
+42:16
+
+Introduction
+00:56
+Building and Deploying Applications with Cloud Build
+05:35
+Demo: Cloud Build Configuration File
+10:16
+Cloud Builders
+03:48
+Extending Cloud Build
+04:08
+Summary
+02:33
+QUIZ
+Building and Deploying Applications with Cloud Build
+15:00
+CHAPTER 5
+
+Deploying to Google Kubernetes Engine (GKE) with Google Cloud Deploy
+47:35
+
+Introduction
+00:31
+Deploying to GKE with Google Cloud Deploy
+04:31
+Demo: Build a Pipeline with Google Cloud Deploy
+11:26
+Summary
+01:07
+QUIZ
+Deploying to GKE with Google Cloud Deploy
+30:00
+CHAPTER 6
+
+Conclusion
+03:28
+
+Course Summary
+02:11
+Conclusion and What's Next
