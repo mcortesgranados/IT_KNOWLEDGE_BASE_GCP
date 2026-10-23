@@ -1,0 +1,98 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+16:45
+
+Let’s Get Connected
+02:45
+From Physical to Digital
+04:31
+Benefits of Exploring IoT
+04:51
+The Checklist
+04:38
+
+CHAPTER 2
+
+Electronics, Circuits, and Voltage
+23:24
+
+Electronics and Circuits
+07:19
+Ohm’s Law - Resistance, Volts, and Amps
+06:08
+Connecting the Dots
+02:37
+Hands On Lab Build Circuits using Tinkercad
+07:20
+
+CHAPTER 3
+
+Development Boards & Sensors (Hardware)
+36:46
+
+Introduction to Development Boards
+06:24
+
+
+
+Exploring the Arduino Uno
+07:12
+
+Setting up the Raspberry Pi
+08:11
+
+Connecting the Dots
+03:31
+Hands-on with Arduino Development Board
+11:28
+CHAPTER 4
+
+Programming (Software)
+29:48
+
+Providing Your Instructions
+02:41
+Programming Arduino with C++
+09:49
+Exploring the Raspberry Pi OS
+09:52
+Hands on Lab Programming the Arduino Uno
+07:26
+CHAPTER 5
+
+Google Cloud IoT Core
+37:51
+
+Using Cloud IoT Core
+07:23
+Creating a Registry
+08:50
+Adding a Device to IoT Core
+07:19
+Collecting Data in IoT Core
+11:06
+
+Connecting the Dots
+03:13
+CHAPTER 6
+
+Analyzing the IoT Data in GCP
+1:53:13
+
+Analyzing IoT Data in GCP
+12:37
+Using BigQuery
+07:11
+Connecting the Dots
+03:25
+HANDS-ON LAB
+Viewing Cloud IoT Core Data Using BigQuery
+1:30:00
+CHAPTER 7
+
+Conclusion
+03:21
+
+Building Your Solutions
