@@ -1,0 +1,93 @@
+CHAPTER 01 Introduction
+01-01 Course Introduction
+
+01-02 What You Need to Know
+
+CHAPTER 02 Understanding Cloud Functions
+02-01 Introduction
+
+02-02 How Cloud Functions Works
+
+02-03 Comparing 1st Gen to 2nd Gen
+
+02-04 Configuring Cloud Functions
+
+02-05 Summary
+
+02-06 HANDS-ON LAB Activating a 2nd Gen Cloud Function with HTTP
+
+CHAPTER 03 Creating Cloud Functions
+03-01 Introduction
+
+03-02 Coding HTTP Functions
+
+03-03 Exploring Event-Driven Functions
+
+03-04 Deploying and Testing Cloud Functions
+
+03-05 Summary
+
+03-06 HANDS-ON LAB Deploying a Pub/Sub Function through Terraform
+
+CHAPTER 04 Examining Triggers
+04-01 Introduction
+
+04-02 Grasping Trigger Fundamentals
+
+04-03 Applying 1st Gen Triggers
+
+04-04 Expanding to Eventarc Triggers
+
+04-05 Responding to Audit Logs
+
+04-06 Summary
+
+04-07 HANDS-ON LAB Setting Off a Cloud Function via Cloud Storage Metadata
+
+CHAPTER 05 Integrating with Networking
+05-01 Introduction
+
+05-02 Configuring Network Settings for Cloud Functions
+
+05-03 Linking Cloud Functions to VPC Networks
+
+05-04 Working with Shared VPC Networks
+
+05-05 Summary
+
+05-06 HANDS-ON LAB Connect a VPC Network and Cloud Function
+
+CHAPTER 06 Connecting to Databases
+06-01 Introduction
+
+06-02 Empowering Cloud SQL
+
+06-03 Driving Data with Cloud Bigtable
+
+06-04 Reading Cloud Spanner Data
+
+06-05 Data-Driven Functions with Cloud Firestore
+
+06-06 Summary
+
+06-07 HANDS-ON LAB Reading Data from Cloud Bigtable with Cloud Functions
+
+CHAPTER 07 Integrating with Advanced Functionality
+07-01 Introduction
+
+07-02 Processing Streaming Data
+
+07-03 Working with AI APIs
+
+07-04 Connecting to Third-Party APIs
+
+07-05 Summary
+
+07-06 HANDS-ON LAB Establishing a Dialogflow Webhook
+
+CHAPTER 08 Conclusion
+08-01 Course Summary
+
+08-02 Conclusion and What’s Next
+
+08-03 QUIZ Hands-On with Google Cloud Functions

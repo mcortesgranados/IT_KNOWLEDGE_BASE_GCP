@@ -1,0 +1,135 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+06:06
+
+Course Introduction
+02:44
+
+What You Need to Know
+03:22
+CHAPTER 2
+
+Understanding Cloud Functions
+57:21
+
+Introduction
+01:17
+How Cloud Functions Works
+08:39
+Comparing 1st Gen to 2nd Gen
+07:23
+Configuring Cloud Functions
+07:59
+Summary
+02:03
+HANDS-ON LAB
+Activating a 2nd Gen Cloud Function with HTTP
+30:00
+CHAPTER 3
+
+Creating Cloud Functions
+1:03:04
+
+Introduction
+01:25
+Coding HTTP Functions
+06:41
+Exploring Event-Driven Functions
+07:46
+Deploying and Testing Cloud Functions
+14:53
+Summary
+02:19
+HANDS-ON LAB
+Deploying a Pub/Sub Function through Terraform
+30:00
+CHAPTER 4
+
+Examining Triggers
+1:22:15
+
+Introduction
+01:40
+Grasping Trigger Fundamentals
+08:39
+Applying 1st Gen Triggers
+07:35
+Expanding to Eventarc Triggers
+08:32
+Responding to Audit Logs
+08:32
+
+Summary
+02:17
+HANDS-ON LAB
+Setting Off a Cloud Function via Cloud Storage Metadata
+45:00
+CHAPTER 5
+
+Integrating with Networking
+1:15:13
+
+Introduction
+01:08
+Configuring Network Settings for Cloud Functions
+07:26
+Linking Cloud Functions to VPC Networks
+13:40
+Working with Shared VPC Networks
+06:05
+Summary
+01:54
+HANDS-ON LAB
+Connect a VPC Network and Cloud Function
+45:00
+CHAPTER 6
+
+Connecting to Databases
+2:17:04
+
+Introduction
+01:23
+Empowering Cloud SQL
+11:20
+Driving Data with Cloud Bigtable
+04:08
+Reading Cloud Spanner Data
+06:32
+Data-Driven Functions with Cloud Firestore
+06:24
+Summary
+02:17
+HANDS-ON LAB
+Reading Data from Cloud Bigtable with Cloud Functions
+1:45:00
+CHAPTER 7
+
+Integrating with Advanced Functionality
+1:17:03
+
+Introduction
+01:44
+Processing Streaming Data
+09:46
+Working with AI APIs
+09:24
+Connecting to Third-Party APIs
+09:09
+Summary
+02:00
+HANDS-ON LAB
+Establishing a Dialogflow Webhook
+45:00
+CHAPTER 8
+
+Conclusion
+35:24
+
+Course Summary
+04:32
+Conclusion and What’s Next
+00:52
+QUIZ
+Hands-On with Google Cloud Functions
