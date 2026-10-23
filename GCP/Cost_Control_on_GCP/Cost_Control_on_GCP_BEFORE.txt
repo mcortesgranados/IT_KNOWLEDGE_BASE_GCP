@@ -1,0 +1,59 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+05:25
+
+Course Introduction
+01:21
+Billing Resource Organization Basics
+04:04
+
+CHAPTER 2
+
+Managing Billing Access
+13:52
+
+Control Billing Access with IAM Roles
+06:16
+
+Hands On - Billing Access Control
+07:36
+CHAPTER 3
+
+Cost Visibility and Analysis
+24:24
+
+Section Introduction - Cost Visibility and Analysis
+00:41
+Cost Visibility with Billing Reports
+09:55
+
+Export Billing Data to BigQuery
+06:43
+
+Billing Alerts with Budgets
+06:24
+
+Section Summary - Cost Visibility and Analysis
+00:41
+CHAPTER 4
+
+Reducing Costs on GCP
+11:38
+
+Tools to Reduce Identified Costs
+11:38
+
+
+
+
+
+
+
+CHAPTER 5
+
+Wrapping Up
+01:12
+
+Course Conclusion and Next Steps
