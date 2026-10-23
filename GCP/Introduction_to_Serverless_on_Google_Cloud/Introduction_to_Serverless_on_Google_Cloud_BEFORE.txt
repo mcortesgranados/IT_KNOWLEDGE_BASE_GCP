@@ -1,0 +1,42 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+01:34
+
+Course Introduction
+01:34
+CHAPTER 2
+
+Understanding Google Cloud Serverless Options
+28:56
+
+Exploring GCP Serverless Offerings
+11:53
+Comparing and Contrasting Serverless Services
+10:35
+Integrating Serverless Services with the Google Cloud Platform
+06:28
+CHAPTER 3
+
+Diving into the Google Cloud Serverless Services
+1:26:10
+
+Deploying Serverless Applications with App Engine
+14:33
+
+Triggering Executables with Cloud Functions
+13:43
+
+Serving up Serverless Containers with Cloud Run
+12:54
+
+HANDS-ON LAB
+Setting Off Fireworks with Cloud Functions
+45:00
+CHAPTER 4
+
+Conclusion
+00:58
+
+Conclusion and What’s Next
