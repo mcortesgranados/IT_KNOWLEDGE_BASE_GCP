@@ -1,0 +1,87 @@
+Course Outline
+CHAPTER 1
+
+Introduction to the Author and Course
+02:22
+
+Course Introduction
+02:22
+
+CHAPTER 2
+
+Google Compute Engine Virtual Machines
+1:07:42
+
+Introduction to Google Compute Engine Virtual Machines
+00:59
+
+
+Understanding Google Compute Engine (GCE) as a Service
+06:48
+
+Understanding Machine Types, Images, and Pricing in GCE
+07:33
+
+
+
+Creating and Managing Virtual Machines in GCP
+07:38
+
+
+Scaling Virtual Machines
+04:58
+
+Understanding Internal and External IP Addresses
+04:43
+
+Demo: Set Up a Virtual Machine with a Static IP Address
+05:03
+
+QUIZ
+QUIZ: Google Compute Engine Virtual Machines
+30:00
+CHAPTER 3
+
+Instance Groups
+41:55
+
+Introduction to Instance Groups
+00:29
+
+Creating VMs with Instance Templates
+02:58
+
+
+Creating Managed Instance Groups
+05:30
+
+Updating a Managed Instance Group
+05:38
+
+Getting Started with Cloud Load Balancing
+04:52
+
+Choosing and Creating a Load Balancer in GCP
+07:28
+
+QUIZ
+QUIZ: Instance Groups
+15:00
+CHAPTER 4
+
+How to Use the Compute Engine API
+03:58
+
+Introduction to Compute Engine API
+00:21
+
+Demo: Provision a Virtual Machine Using REST APIs
+03:37
+CHAPTER 5
+
+Conclusion
+02:44
+
+Course Summary
+01:48
+Conclusion and What's Next
