@@ -1,0 +1,181 @@
+Course Outline
+CHAPTER 1
+
+Intro to Containers
+37:06
+
+An Important Note About A Cloud Guru and Linux Academy Courses
+01:18
+Welcome
+02:04
+
+
+
+
+
+
+A Note About Demo Lessons
+00:54
+In the Beginning was the Server
+04:30
+Containers to the Rescue
+04:48
+Your First Container
+05:47
+
+Demo: Your First Container
+12:15
+
+Ready to Start Your Container Journey?
+05:30
+
+CHAPTER 2
+
+Intro to GKE
+1:31:54
+
+The Anatomy of a Cluster
+07:25
+
+Demo: Creating a GKE Cluster
+10:29
+Forget Containers, Meet Pods!
+05:32
+
+Demo: Creating Pods
+10:36
+
+ReplicaSets and Deployments
+05:37
+
+Accessing Applications
+04:57
+
+Demo: Deployments and Services
+14:40
+
+Demo: Monitoring, Logging, and Debugging
+17:38
+QUIZ
+Google Kubernetes Engine (GKE): Beginner to Pro - Intro to GKE Quiz
+15:00
+CHAPTER 3
+
+Deploying Applications
+1:52:34
+
+Putting it all Together: Stateless Application Example
+09:20
+
+
+Pod Reliability with Health Checks
+04:08
+Accessing External Services
+02:54
+Demo: Maintaining a Service with Unhealthy Pods
+22:52
+
+Volumes and Persistent Storage
+07:13
+
+Demo: Volumes and Persistent Storage
+11:46
+
+ConfigMaps and Secrets
+03:45
+
+
+Deployment Patterns
+05:21
+Demo: Deployment Patterns
+13:08
+
+Autoscaling all the Things
+05:16
+
+
+Demo: Autoscaling all the Things
+11:51
+
+QUIZ
+Google Kubernetes Engine (GKE): Beginner to Pro - Deploying Applications Quiz
+15:00
+CHAPTER 4
+
+Advanced GKE Operations
+1:43:01
+
+Helm: The Kubernetes Package Manager
+05:00
+
+
+
+Demo: Deploying Applications with Helm
+11:40
+
+
+
+Advances Ingress Control
+02:55
+
+Demo: Routing Traffic with Ingress Controllers
+14:43
+
+High Availability Clusters and Workloads
+04:09
+
+Running a Secure GKE Cluster
+10:08
+
+Enhancing Cluster Nodes with DaemonSets
+02:05
+
+Stateful Applications and Workloads
+06:36
+
+Finite Tasks and Init Containers
+05:01
+
+
+Demo: Running a Stateful Cassandra Database
+25:44
+
+QUIZ
+Google Kubernetes Engine (GKE): Beginner to Pro - Advanced GKE Operations Quiz
+15:00
+CHAPTER 5
+
+Wrapping Up
+39:58
+
+What Have We Learned So Far?
+05:59
+
+
+
+Continuous Integration and Deployment
+06:45
+
+
+
+Operators: Adding Logic to Deployments
+05:20
+
+
+Istio and Service Meshes
+07:53
+
+
+
+Serverless on Kubernetes
+08:24
+
+
+
+
+What's Next for GKE?
+04:16
+
+
+
+Thank You and Goodbye
