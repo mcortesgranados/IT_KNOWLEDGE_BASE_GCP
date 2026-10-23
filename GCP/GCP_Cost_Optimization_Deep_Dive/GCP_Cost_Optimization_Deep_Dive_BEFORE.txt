@@ -1,0 +1,144 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+02:02
+
+Course Introduction
+01:00
+
+Who Is This Course For?
+01:02
+CHAPTER 2
+
+Introduction to Cost Optimization
+26:25
+
+What Is Cost Optimization?
+02:11
+Cost Optimization Best Practices
+02:04
+Understanding Quotas
+03:56
+The Google Cloud Pricing Calculator
+03:14
+QUIZ
+Introduction to Cost Optimization
+15:00
+CHAPTER 3
+
+Organizing and Structuring Your Billing and Costs
+1:22:28
+
+Understanding the Google Cloud Hierarchy
+02:51
+Understanding Billing Accounts
+02:20
+Billing Account Admin and Billing Account User
+02:17
+HANDS-ON LAB
+Planning and Estimating with Pricing Calculator
+1:00:00
+QUIZ
+Organizing and Structuring Your Billing and Costs
+15:00
+CHAPTER 4
+
+Cost Visibility, Reports, and Alerts
+27:12
+
+Cost Visibility with Billing Reports
+04:01
+Setting Your Budget
+02:55
+Creating a Billing Alert with Pub/Sub
+03:34
+Exporting Billing Data to BigQuery
+01:42
+QUIZ
+Cost Visibility, Reports, and Alerts
+15:00
+CHAPTER 5
+
+Cost Optimization with Compute Engine
+1:22:23
+
+An Overview of Cost Optimization with Compute Engine
+00:45
+Compute Engine Instance Snapshots
+05:27
+
+Using Preemptible VM Instances
+03:50
+GCE Rightsizing Recommendations
+03:49
+
+Idle VM Recommendations
+05:14
+Understanding Committed and Sustained Use Discounts
+02:30
+HANDS-ON LAB
+Creating a Multi-Region, Cost-Optimized Solution with Compute Engine
+30:00
+Recap of Cost Optimization with Compute Engine
+00:48
+QUIZ
+Cost Optimization with Compute Engine
+30:00
+CHAPTER 6
+
+Cost Optimization with Cloud Storage
+1:19:54
+
+Cloud Storage Classes Deep Dive
+06:12
+Retention with Bucket Locking and Lifecycle Actions
+06:29
+Object Versioning for Cost Optimization
+04:51
+Long-Term Storage
+02:22
+HANDS-ON LAB
+Creating a Cost-Optimized Solution Using Retention Policies and Bucket Policy Locks
+30:00
+QUIZ
+Cost Optimization with Cloud Storage
+30:00
+CHAPTER 7
+
+Cost Optimization with BigQuery
+52:04
+
+BigQuery Pricing
+02:52
+Scheduled Transfers with BigQuery Data Transfer Service
+04:12
+HANDS-ON LAB
+Batch Loading Data from Cloud Storage to BigQuery
+30:00
+QUIZ
+Cost Optimization with BigQuery
+15:00
+CHAPTER 8
+
+Cost Optimize Your Network
+41:28
+
+Cloud Platform SKU
+02:54
+Auditing with Network Topology
+05:18
+Understanding Network Service Tiers
+03:16
+
+QUIZ
+Cost Optimize Your Network
+30:00
+CHAPTER 9
+
+Conclusion
+02:29
+
+Course Summary
+00:44
+Conclusion and What’s Next
