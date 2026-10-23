@@ -1,0 +1,137 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+09:49
+
+About the Course and Learning Path
+04:06
+
+
+
+
+About the Exam
+05:43
+
+CHAPTER 2
+
+Google Cloud DevOps and SRE
+1:15:57
+
+Section Introduction
+01:38
+Balancing Change, Velocity, and Service Reliability with SRE
+11:39
+Exploring Site Reliability Engineering
+14:26
+
+Making the Most of Risk
+12:39
+
+
+Generating SRE Metrics
+10:07
+Reacting to Incidents
+12:07
+Section Summary
+13:21
+CHAPTER 3
+
+Google Cloud CI/CD Pipelines
+3:20:12
+
+Section Introduction
+02:27
+Understanding Google Cloud CI/CD Pipelines
+12:11
+Continuous Integration on Google Cloud
+09:27
+Cloud Source Repositories
+06:21
+HANDS-ON LAB
+Migrating Source Code to a Google Cloud Source Repository
+30:00
+HANDS-ON LAB
+Integrating Google Cloud Functions and Cloud Source Repositories
+30:00
+Automating with Cloud Build
+10:33
+
+HANDS-ON LAB
+Triggering a Cloud Function with Cloud Build
+45:00
+Artifact Management with Container Registry
+12:01
+Continuous Deployment with GKE
+09:53
+Working with Spinnaker
+05:41
+
+Securing the Deployment Pipeline
+09:21
+Section Summary: Part 1
+08:12
+Section Summary: Part 2
+09:05
+CHAPTER 4
+
+Monitoring, Managing, and Maximizing Google Cloud Operations
+4:51:23
+
+Section Introduction
+02:02
+Understanding Operations in Context
+14:32
+Monitoring Your Operations: Part 1
+12:12
+Managing Your Operation: Part 2
+10:16
+HANDS-ON LAB
+Install and Configure Monitoring Agent with Google Cloud Monitoring
+30:00
+HANDS-ON LAB
+Creating an Alerting Policy with Cloud Monitoring
+45:00
+Leveraging Logging Activities: Part 1
+13:25
+Leveraging Logging Activity: Part 2
+12:38
+HANDS-ON LAB
+Install and Configure Logging Agent on Google Cloud
+45:00
+HANDS-ON LAB
+Inspecting Cloud Logging Admin Activity Audit Logs
+15:00
+SRE and Alerting Policies
+10:01
+Optimize Performance with Trace and Profiler
+10:42
+HANDS-ON LAB
+Discovering Latency with Google Cloud Trace
+45:00
+Identifying Application Errors
+11:30
+Section Summary
+14:05
+CHAPTER 5
+
+Conclusion
+13:24
+
+Preparing for the Certification Exam
+07:13
+
+
+
+
+Exam Tips, Resources, and References
+03:49
+
+
+
+
+
+
+
+
+Conclusion and What's Next
