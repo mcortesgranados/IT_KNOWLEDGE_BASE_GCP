@@ -1,0 +1,289 @@
+
+Next Lessons
+Course Introduction thumbnail
+02:44
+Course Introduction
+
+CHAPTER 1.1
+
+Course Prerequisites thumbnail
+02:23
+Course Prerequisites
+
+CHAPTER 1.2
+
+Working through the Exam Guide thumbnail
+12:53
+Working through the Exam Guide
+
+CHAPTER 1.3
+
+Course Outline
+CHAPTER 1
+
+Introduction
+18:00
+
+Course Introduction
+02:44
+
+
+Course Prerequisites
+02:23
+Working through the Exam Guide
+12:53
+
+CHAPTER 2
+
+Architecting for the Cloud
+1:03:35
+
+Section Introduction
+01:16
+What Makes a Cloud Architect?
+17:14
+Architecting Systems in Context
+11:23
+Breaking Down the Data Lifecycle
+14:30
+Section Summary
+04:12
+QUIZ
+Architecting for the Cloud
+15:00
+CHAPTER 3
+
+Overarching Principles
+1:18:57
+
+Section Introduction
+01:57
+Grasping Key Technical Fundamentals
+14:47
+Keeping in Compliance
+08:11
+
+
+
+Annotating Resources Properly
+06:46
+Managing Quotas and Costs
+13:17
+Section Summary
+03:59
+QUIZ
+Overarching Principles
+30:00
+CHAPTER 4
+
+Reviewing Case Studies
+46:39
+
+Section Introduction
+02:18
+Case Study 1: EHR Healthcare
+12:08
+
+Case Study 2: Helicopter Racing League
+09:10
+
+Case Study 3: Mountkirk Games
+09:49
+
+Case Study 4: TerramEarth
+09:23
+
+Section Summary
+03:51
+CHAPTER 5
+
+Processing Data
+4:46:51
+
+Section Introduction
+02:06
+Reviewing Compute Services
+13:37
+Choosing the Correct Compute Option
+04:43
+Compute Autoscaling Comparison
+09:02
+Evolving the Cloud with ML and AI Services
+14:25
+Handling Big Data and IoT
+14:13
+
+
+Section Summary
+03:45
+HANDS-ON LAB
+Working with Custom Images on Google Compute Engine
+1:00:00
+HANDS-ON LAB
+Creating a Load-Balanced Managed Instance Group on Google Cloud Platform
+1:00:00
+HANDS-ON LAB
+Viewing Cloud IoT Core Data Using BigQuery
+1:30:00
+QUIZ
+Processing Data
+15:00
+CHAPTER 6
+
+Working with Containers and Specialized Workloads
+3:36:12
+
+Section Introduction
+01:37
+Focusing on Kubernetes Engine
+14:12
+Anthos: A Closer Look
+10:45
+Bare Metal: A Closer Look
+06:19
+Section Summary
+03:19
+HANDS-ON LAB
+Using ConfigMaps on GKE
+1:00:00
+HANDS-ON LAB
+Deploying GKE Rolling Updates
+30:00
+HANDS-ON LAB
+Using Workload Identity on GKE
+1:00:00
+QUIZ
+Working with Containers and Specialized Workloads
+30:00
+CHAPTER 7
+
+Storing Data
+3:09:01
+
+Section Introduction
+01:42
+Storing Your Objects and Files
+14:50
+
+Selecting the Proper Storage Service
+04:16
+Saving Your Data on GCP
+09:09
+Deciding on the Best Database Solution
+04:37
+Section Summary
+04:27
+HANDS-ON LAB
+Object Versioning in Google Cloud Storage
+30:00
+HANDS-ON LAB
+Exporting and Importing Data between Cloud SQL Environments
+1:30:00
+QUIZ
+Storing Data
+30:00
+CHAPTER 8
+
+Networking Data
+2:02:17
+
+Section Introduction
+01:42
+Globally Connecting with External Networking
+13:18
+Networking Internally
+09:30
+Finding a Load Balancer
+04:30
+Section Summary
+03:17
+HANDS-ON LAB
+Connect VPCs with Network Peering on the Google Cloud Platform
+30:00
+HANDS-ON LAB
+Enable Public Internet Communication Using Cloud NAT on GCP
+30:00
+QUIZ
+Networking Data
+30:00
+CHAPTER 9
+
+Managing and Securing Data
+2:34:06
+
+Section Introduction
+02:03
+Establishing Core Security with Cloud IAM - Part 1
+12:19
+Establishing Core Security with Cloud IAM - Part 2
+05:56
+Detecting and Responding to Security Threats
+12:52
+Managing Encrypted Keys
+12:36
+Section Summary
+03:20
+HANDS-ON LAB
+Creating and Managing GCP Service Accounts
+45:00
+HANDS-ON LAB
+Using Cloud Run with Secret Manager
+30:00
+QUIZ
+Managing and Securing Data
+30:00
+CHAPTER 10
+
+Monitoring and Enhancing Operations
+1:47:21
+
+Section Introduction
+01:31
+Keeping an Eye on Your Systems - Part 1
+10:38
+Keeping an Eye on Your Systems - Part 2
+08:57
+Debugging and Improving Performance
+09:10
+Section Summary
+02:05
+HANDS-ON LAB
+Discovering Latency with Google Cloud Trace
+45:00
+QUIZ
+Monitoring and Enhancing Operations
+30:00
+CHAPTER 11
+
+Planning Your Cloud Migration
+56:04
+
+Section Introduction
+01:24
+Following Data Migration Best Practices
+13:13
+Migrating Applications and Data
+09:13
+Section Summary
+02:14
+QUIZ
+Planning Your Cloud Migration
+30:00
+CHAPTER 12
+
+Conclusion
+5:27:14
+
+Preparing for the Exam
+09:54
+Conclusion and What’s Next
+02:20
+PRACTICE EXAM
+Google Cloud Certified Professional Cloud Architect - Practice Exam - 1
+1:45:00
+PRACTICE EXAM
+Google Cloud Certified Professional Cloud Architect - Practice Exam - 2
+1:45:00
+PRACTICE EXAM
+Google Cloud Certified Professional Cloud Architect - Practice Exam - 3
+1:45:00
