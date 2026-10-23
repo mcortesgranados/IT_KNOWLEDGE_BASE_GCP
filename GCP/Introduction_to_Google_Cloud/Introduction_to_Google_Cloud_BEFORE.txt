@@ -1,0 +1,112 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+01:25
+
+Course Introduction
+00:45
+Getting to Know the Training Architect
+00:40
+CHAPTER 2
+
+Google Cloud Foundations
+09:52
+
+Google Cloud Overview
+01:43
+Understanding Google Cloud Design and Structure
+02:49
+What's Different About Google Cloud?
+01:15
+Who Are Google Cloud's Competitors?
+01:33
+Let's Talk About Using APIs
+02:32
+CHAPTER 3
+
+Identity and Access Management
+09:21
+
+What Is IAM?
+03:48
+Let's Talk About Organization
+02:35
+What Are Google Cloud Projects?
+02:58
+CHAPTER 4
+
+Networking
+18:07
+
+Understanding Network Design in Google Cloud
+03:07
+HANDS-ON LAB
+Create Our First VPC in Google Cloud
+15:00
+CHAPTER 5
+
+Compute Engine Instance
+52:24
+
+What Is Compute Engine?
+04:27
+Different Types of Compute Engine Instances
+02:57
+HANDS-ON LAB
+Creating and Configuring a General Purpose Instance
+45:00
+CHAPTER 6
+
+Storage
+39:09
+
+What Is Cloud Storage?
+05:58
+Implementing Storage on Various Classes in GCP
+03:11
+HANDS-ON LAB
+Creating a Folder and Uploading an Object in Cloud Storage
+30:00
+CHAPTER 7
+
+Database Service
+1:19:36
+
+What Type of Database Services Does GCP Offer?
+04:36
+HANDS-ON LAB
+Creating a Cloud SQL Instance in Google Cloud
+1:15:00
+CHAPTER 8
+
+Big Data and Messaging
+54:20
+
+Introduction to Big Query
+03:41
+
+Getting to Know Google Dataflow
+01:47
+Join the Club of Pub/Sub
+03:52
+HANDS-ON LAB
+Creating a Topic and Subscription with Pub/Sub in Google Cloud
+45:00
+CHAPTER 9
+
+Advanced Major Services
+06:33
+
+Understanding Security
+01:25
+How Are Resources Monitored?
+03:32
+Learning More About Machine Learning and AI
+01:36
+CHAPTER 10
+
+Next Steps
+01:36
+
+What's Next?
