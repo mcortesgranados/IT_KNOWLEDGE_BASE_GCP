@@ -1,0 +1,123 @@
+Course Outline
+CHAPTER 1
+
+Course Intro
+03:28
+
+Course Introduction
+02:54
+
+About the Training Architect
+00:34
+CHAPTER 2
+
+IAM Big Picture
+04:31
+
+Big Picture Perspective - IAM on GCP
+04:31
+CHAPTER 3
+
+Establishing Identity
+46:35
+
+Member Types
+10:35
+Creating Identities with Cloud Identity
+04:17
+Hands-On - Cloud Identity
+10:37
+Synchronize Cloud Identity with Active Directory
+04:19
+Google Groups
+08:33
+Configure Multi-Factor Authentication
+08:14
+CHAPTER 4
+
+Granting Access to GCP Resources with Cloud IAM
+2:41:58
+
+GCP Resource Hierarchy
+09:45
+Roles and Resources
+08:42
+IAM Navigation and Organization Node
+09:36
+Hands-On - IAM Roles
+12:57
+Working with Folders
+08:35
+Custom Roles
+13:32
+Granular Access by Service
+07:09
+OS Login for Compute Engine
+13:23
+Managing IAM Policies with Command Line
+04:50
+Hands-On with IAM and the Command Line
+12:27
+Troubleshooting IAM Roles
+12:09
+IAM Best Practices
+03:53
+HANDS-ON LAB
+Creating and Manage IAM Roles on Google Cloud
+45:00
+CHAPTER 5
+
+Service Accounts
+2:38:36
+
+Service Accounts Overview
+09:52
+Creating and Managing Service Accounts
+14:46
+Working with Compute Engine Service Account
+14:53
+Managing Service Account Keys
+04:24
+Hands-On (Part 1) - Service Account Keys
+10:59
+Hands On (Part 2) - Service Account Keys
+09:10
+Service Account Best Practices
+04:32
+HANDS-ON LAB
+Creating and Managing GCP Service Accounts
+45:00
+HANDS-ON LAB
+Understanding Service Accounts and Scopes on Google Compute Engine
+45:00
+CHAPTER 6
+
+IAM on Cloud Storage
+1:18:23
+
+Importance of Cloud Storage Security Policies
+02:46
+Bucket IAM Roles and ACLs
+08:31
+Hands-On - Bucket Roles and ACLs
+22:06
+HANDS-ON LAB
+Creating and Managing GCP Storage Bucket Roles and ACLs
+45:00
+CHAPTER 7
+
+Protecting Resources
+23:48
+
+IAM Conditions
+10:08
+IAM Auditing and Logging
+08:50
+Quick Look - Security Command Center
+04:50
+CHAPTER 8
+
+Wrapping Up
+01:21
+
+Course Conclusion and Next Steps
