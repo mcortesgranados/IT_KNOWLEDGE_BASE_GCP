@@ -1,0 +1,98 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+07:59
+
+Course Introduction
+03:22
+
+About the Training Architect
+01:08
+Setting Up Your Apigee Account
+03:29
+CHAPTER 2
+
+Designing APIs
+1:04:32
+
+Understanding Google Cloud Apigee
+09:00
+Data Modeling Best Practices
+10:31
+Strategies for Designing APIs
+08:21
+Applying RESTful Design
+06:32
+Structuring API Paging Design
+04:18
+Driving API Consumption
+06:12
+Handling Revisions and Versions
+06:14
+Exploring the Apigee User Interface
+13:24
+CHAPTER 3
+
+Developing, Implementing, and Securing APIs
+1:40:11
+
+Understanding the OpenAPI Spec
+12:43
+Creating API Proxies on Apigee Edge
+09:23
+Error Conditions and Fault Handling
+11:55
+Exploring Mediation Strategies
+04:57
+Enforcing API Security
+11:48
+Addressing Content-Based Attacks
+07:43
+Extracting Data from Payloads
+05:32
+Handling Traffic Spikes
+05:58
+Tracing Requests and Responses
+10:50
+Extending Functionality
+05:35
+Applying Role-Based Access Control
+08:33
+Protecting Data
+05:14
+CHAPTER 4
+
+The Development Lifecycle and CI/CD
+28:46
+
+Automating Build and Deployment
+09:06
+Running Unit and Integration Tests
+05:43
+Implementing Static Code Analysis
+05:25
+Proxy SDLC Strategies
+04:19
+Setting API Performance Benchmarks
+04:13
+CHAPTER 5
+
+Requirements and Business Analysis
+22:06
+
+Managing API Products
+08:28
+Conducting Requirements Analysis
+09:04
+Leveraging the Edge Microgateway
+04:34
+CHAPTER 6
+
+Next Steps
+1:54:44
+
+Preparing for the Exam
+09:44
+PRACTICE EXAM
+Google Cloud Apigee API Engineer Practice Exam
