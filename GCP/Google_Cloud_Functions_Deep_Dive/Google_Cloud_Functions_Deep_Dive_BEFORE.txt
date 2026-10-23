@@ -1,0 +1,136 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+10:41
+
+Course Introduction
+03:40
+
+About the Course Author
+01:08
+Using the Interactive Diagram
+03:09
+Course Features and Tools
+02:44
+CHAPTER 2
+
+Overview of Cloud Functions
+43:52
+
+Introduction to Google Cloud Functions
+18:14
+First Look: Cloud Functions, Events, and Triggers
+10:27
+Managing Costs and Quotas
+15:11
+CHAPTER 3
+
+Setting Up for Cloud Functions
+1:39:00
+
+Section Introduction
+02:32
+Utilizing the Console and Shell
+13:40
+Establishing a Local Environment
+11:51
+Working with Environment Variables
+10:57
+HANDS-ON LAB
+Powering Google Cloud APIs with Cloud Functions
+1:00:00
+CHAPTER 4
+
+Coding Cloud Functions
+23:31
+
+Crafting HTTP Functions
+14:17
+Developing Background Functions
+09:14
+CHAPTER 5
+
+Deploying Cloud Functions
+16:32
+
+Deploying from Your Development Environment
+06:35
+Deploying from the Console or a Repository
+09:57
+CHAPTER 6
+
+Triggering Cloud Functions
+1:23:35
+
+Calling Triggers Directly
+07:07
+Triggering Functions via Cloud Pub/Sub
+08:15
+Establishing Cloud Storage Triggers
+08:41
+Accessing Cloud SQL
+14:32
+HANDS-ON LAB
+Integrating Cloud Functions and Cloud SQL
+45:00
+CHAPTER 7
+
+Tracking Cloud Functions
+55:21
+
+Integrating Stackdriver Logging and Monitoring
+18:01
+Reporting Errors to Stackdriver
+07:20
+HANDS-ON LAB
+Sending SMS Text via Cloud Functions
+30:00
+CHAPTER 8
+
+Testing and Developing Cloud Functions
+29:40
+
+Running Cloud Function Tests
+12:29
+Using Cloud Build for CI/CD with Cloud Functions
+12:05
+Section Conclusion and Summary
+05:06
+CHAPTER 9
+
+Use Case: Extracting Data
+25:06
+
+Section Introduction
+00:55
+Use Case Overview
+03:21
+Pulling Data from SQL Queries
+20:50
+CHAPTER 10
+
+Use Case: Gathering and Converting Visual Information
+26:28
+
+Use Case Overview
+02:37
+Translating Text from Images
+23:51
+CHAPTER 11
+
+Use Case: Delivering Text Messages
+13:43
+
+Use Case Overview
+02:32
+Delivering Text Messages
+08:56
+Section Conclusion and Summary
+02:15
+CHAPTER 12
+
+Final Steps
+01:43
+
+What's Next?
