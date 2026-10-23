@@ -1,0 +1,450 @@
+Course Outline
+CHAPTER 1
+
+Course Introduction
+17:40
+
+Course Introduction
+04:11
+
+
+
+Using the Master Builder's Guide to Google Cloud - Interactive Diagram
+02:39
+
+
+
+Purpose of this Course
+05:18
+
+Architect Exam and Course Overview
+05:32
+
+CHAPTER 2
+
+Cloud Resource Manager
+39:59
+
+Management Services
+01:46
+
+Resource Hierarchy
+10:38
+
+Resource Hierarchy Hands On
+05:39
+
+Labels
+13:24
+
+Quotas
+08:32
+
+CHAPTER 3
+
+Cloud IAM
+1:58:01
+
+Cloud IAM Overview
+18:27
+
+IAM Hands-On Part 1
+09:43
+
+IAM Hands-On Part 2
+14:28
+
+Service Accounts
+08:47
+
+Service Accounts Hands On
+15:32
+
+IAM Best Practices
+06:04
+
+HANDS-ON LAB
+Understanding Service Accounts and Scopes on Google Compute Engine
+45:00
+CHAPTER 4
+
+Billing
+1:05:21
+
+Billing Overview
+06:19
+
+Hands On - Billing and IAM
+14:02
+
+HANDS-ON LAB
+View Sample Billing Data with BigQuery
+45:00
+CHAPTER 5
+
+Operations
+1:04:32
+
+Operations Overview
+03:33
+
+Cloud Logging Concepts
+09:44
+
+Hands On - Cloud Logging
+15:51
+
+Cloud Monitoring Concepts
+05:15
+
+Hands On - Cloud Monitoring
+16:50
+
+Trace, Error Reporting, and Debug Concepts
+05:17
+
+Hands On - APM Trace, Error Reporting, and Debug
+08:02
+
+CHAPTER 6
+
+Google Cloud Storage
+2:02:18
+
+Cloud Storage Concepts
+10:07
+
+Using the gsutil Command
+08:30
+
+Cloud Storage Security Concepts
+11:21
+
+Hands On - Cloud Storage Security
+20:42
+
+Object Versioning and Lifecycle Management
+11:42
+
+Hands On - Object Versioning
+14:39
+
+gsutil Command Line A-Z
+15:17
+
+HANDS-ON LAB
+Object Versioning in Google Cloud Storage
+30:00
+CHAPTER 7
+
+Managed Databases on Google Cloud Platform
+1:03:02
+
+Managed Databases Overview
+09:44
+
+Managed Databases on Google Cloud
+22:13
+
+Cloud SQL Closer Look
+13:41
+
+BigQuery Overview
+17:24
+
+CHAPTER 8
+
+Virtual Networks
+2:08:27
+
+VPC Concepts
+12:18
+
+VPC Hands-On
+14:28
+
+Firewalls
+05:41
+
+Hands-On - Firewall Rules
+09:15
+
+Shared VPC Concepts
+14:14
+
+Hands On - Shared VPC
+12:31
+
+HANDS-ON LAB
+Creating a Custom Mode VPC Network on Google Cloud Platform
+30:00
+HANDS-ON LAB
+Create Firewall Rules on a Google Cloud VPC Network
+30:00
+CHAPTER 9
+
+Interconnecting Networks (Hybrid Networking)
+1:57:39
+
+The Power of the Network
+05:46
+
+Connecting your Network to Google
+15:35
+
+Cloud VPN
+07:16
+
+Hands On - Cloud VPN
+11:58
+
+Hands On - Cloud Router
+11:48
+
+Google Cloud DNS
+05:16
+
+HANDS-ON LAB
+Connecting Networks with Google Cloud VPN Using Static Routes
+1:00:00
+CHAPTER 10
+
+Compute Engine - Virtual Machines
+5:09:31
+
+Compute Engine Deep Dive
+02:47
+
+Disks
+13:35
+
+Hands On - Disks
+17:31
+
+Hands On - Attaching and Resizing Disks
+11:48
+
+Images
+12:58
+
+Hands On - Custom Images
+08:49
+
+Snapshots
+11:43
+
+Startup and Shutdown Scripts
+07:57
+
+Preemptible VM's
+12:23
+
+HANDS-ON LAB
+Working with Disks on Google Compute Engine
+1:00:00
+HANDS-ON LAB
+Working with Custom Images on Google Compute Engine
+1:00:00
+HANDS-ON LAB
+Working with Snapshots on Google Compute Engine
+1:00:00
+HANDS-ON LAB
+Using Startup Scripts on Google Compute Engine
+30:00
+CHAPTER 11
+
+Load Balancing and Instance Groups
+2:07:46
+
+Force Multipliers - Automation and Scaling
+04:37
+
+Load Balancers
+14:42
+
+Instance Groups and Autoscaling
+15:31
+
+Hands On - Managed Instance Group
+13:48
+
+Hands On - Load Balancer
+08:44
+
+Hands On - Autoscaler and Instance Group Updates
+10:24
+
+HANDS-ON LAB
+Creating a Load-Balanced Managed Instance Group on Google Cloud Platform
+1:00:00
+CHAPTER 12
+
+Google Cloud CDN
+10:01
+
+Cloud CDN Concepts
+10:01
+
+CHAPTER 13
+
+Cloud Deployment Manager
+1:23:00
+
+Cloud Deployment Manager Concepts
+07:27
+
+Hands On - Cloud Deployment Manager
+15:33
+
+HANDS-ON LAB
+Deploying Resources with Google Cloud Deployment Manager
+1:00:00
+CHAPTER 14
+
+Compute Services Overview
+14:22
+
+Where Should I Run My Code?
+14:22
+
+CHAPTER 15
+
+App Engine
+22:54
+
+App Engine Overview
+10:06
+
+Hands On - App Engine Versions and Memcache
+12:48
+
+CHAPTER 16
+
+Kubernetes Engine
+1:46:29
+
+Container Resources
+05:20
+
+GKE Administration Concepts
+16:47
+
+GKE Commands and Hands-On
+24:22
+
+HANDS-ON LAB
+Creating and Deploying a Google Kubernetes Engine Cluster
+1:00:00
+CHAPTER 17
+
+Big Data, Machine Learning, and Data Lifecycle
+25:18
+
+Big Data and Machine Learning Services
+15:56
+
+Data Lifecycle
+09:22
+
+CHAPTER 18
+
+Case Studies
+46:33
+
+Case Study Overview
+03:53
+
+Mountkirk Games
+14:45
+
+Dress4Win
+14:22
+
+TerramEarth
+13:33
+
+CHAPTER 19
+
+Planning Your Cloud Transition
+26:43
+
+Making the Case for the Cloud and GCP
+09:18
+
+Cost Optimization
+10:10
+
+Architecting Cloud Applications
+07:15
+
+CHAPTER 20
+
+Migrating to Google Cloud
+39:41
+
+Planning a Successful Cloud Migration
+14:26
+
+Storage Transfer Service
+06:59
+
+Data Migration Best Practices
+11:56
+
+Migrating Applications
+06:20
+
+CHAPTER 21
+
+Resilient Cloud Solution Infrastructure
+17:26
+
+Disaster Recovery Concepts
+08:59
+
+Backup and Recovery Methods in GCP
+08:27
+
+CHAPTER 22
+
+Security and Compliance
+37:31
+
+Security Methods in GCP
+09:33
+
+Network Design for Security and Isolation
+14:00
+
+Legal Compliance and Audits
+13:58
+
+CHAPTER 23
+
+Development Practices
+26:59
+
+Software Development Lifecycle Concepts
+16:08
+
+Testing Your Application for Resiliency
+10:51
+
+CHAPTER 24
+
+Getting Ready for the Exam
+04:12
+
+Additional Study Resources
+04:12
+
+CHAPTER 25
+
+Course Conclusion
+2:06:33
+
+Preparing for the Exam
+06:33
+
+PRACTICE EXAM
+Google Cloud Certified Professional Cloud Architect - Practice Exam
