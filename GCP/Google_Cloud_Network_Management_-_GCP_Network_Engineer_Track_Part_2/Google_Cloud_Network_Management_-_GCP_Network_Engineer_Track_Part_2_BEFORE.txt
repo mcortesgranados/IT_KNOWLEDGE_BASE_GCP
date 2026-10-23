@@ -1,0 +1,147 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+03:41
+
+Course Introduction
+01:58
+
+
+
+Using the Interactive Diagram
+01:43
+
+CHAPTER 2
+
+Shared VPC
+24:18
+
+Shared VPC Overview
+09:01
+
+Hands On - Shared VPC
+09:18
+
+Shared VPC Scenarios
+05:59
+
+CHAPTER 3
+
+VPC Network Peering
+58:16
+
+VPC Network Peering Overview
+10:23
+
+Hands On - VPC Network Peering
+14:57
+
+Shared VPC vs. VPC Network Peering
+02:56
+
+HANDS-ON LAB
+Connect VPCs with Network Peering on the Google Cloud Platform
+30:00
+CHAPTER 4
+
+Load Balancing and Managed Instance Groups
+3:12:48
+
+Networking Force Multipliers
+03:35
+
+Load Balancing Overview
+14:09
+
+Managed Instance Groups Overview
+14:16
+
+Load Balancer Backend Considerations
+03:47
+
+HTTP(S) Load Balancing
+05:20
+
+Hands On - HTTP Load Balancing and Managed Instance Groups (Part 1)
+16:52
+
+Hands On - HTTP Load Balancing and Managed Instance Groups (Part 2)
+13:22
+
+Hands On - HTTP Load Balancing and Managed Instance Groups (Part 3)
+10:45
+
+Hands On - Cloud Armor
+09:30
+
+SSL/TCP Proxy Load Balancing
+04:10
+
+Network and Internal Load Balancing
+07:02
+
+HANDS-ON LAB
+Creating a Load-Balanced Managed Instance Group on Google Cloud Platform
+1:00:00
+HANDS-ON LAB
+Protecting Google Cloud VPC Resources with Cloud Armor
+30:00
+CHAPTER 5
+
+Cloud CDN
+1:10:37
+
+Cloud CDN Overview
+12:50
+
+Cloud CDN Hands On
+12:47
+
+HANDS-ON LAB
+Optimize Websites Using Cloud CDN on Google Cloud
+45:00
+CHAPTER 6
+
+Kubernetes Engine
+1:13:37
+
+GKE Networking Concepts
+14:48
+
+Planning for Growth of Your GKE Cluster
+13:34
+
+Hands On - GKE IP Addressing
+14:36
+
+Hands On - GKE IP Load Balancing (with Ingress Objects)
+07:25
+
+
+Private GKE Clusters and Network Policies
+07:40
+
+Hands On - Private GKE Clusters
+15:34
+
+CHAPTER 7
+
+Cloud DNS
+31:59
+
+Cloud DNS Overview
+11:15
+
+DNSSEC Overview
+05:23
+
+Cloud DNS Hands On
+15:21
+
+CHAPTER 8
+
+Conclusion
+00:42
+
+Course Conclusion and Next Steps
