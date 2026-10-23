@@ -1,0 +1,161 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+04:45
+
+Course Outline
+04:45
+
+CHAPTER 2
+
+Overview of GCP
+15:08
+
+GCP Context
+05:02
+
+
+
+GCP Design and Structure
+10:06
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 3
+
+Products/Services
+2:10:50
+
+Compute
+08:29
+
+
+
+
+Storage
+12:02
+
+
+
+
+Databases
+11:41
+
+
+
+
+
+
+
+
+
+Data Transfer
+02:01
+
+
+External Networking
+09:38
+
+
+
+
+
+Internal Networking
+06:38
+
+
+
+
+
+
+Machine Learning / AI
+08:45
+
+
+
+
+
+
+
+
+
+Big Data and IoT
+14:09
+
+
+
+
+
+
+
+
+
+
+
+
+Identity and Access - Core Security
+15:12
+
+
+
+
+
+
+
+
+
+
+
+Security Management - Monitoring and Response
+14:59
+
+
+
+
+
+
+
+Encryption Key Management
+04:02
+
+
+Operations and Management
+12:15
+
+
+
+
+
+
+
+
+
+Development and APIs
+10:59
+
+
+
+
+
+
+
+
+CHAPTER 4
+
+Beyond Services
+06:13
+
+Putting It All Together
+04:20
+
+Learning GCP
