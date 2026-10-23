@@ -1,0 +1,212 @@
+
+Next Lessons
+Becoming an Associate Engineer thumbnail
+02:26
+Becoming an Associate Engineer
+
+CHAPTER 1.1
+
+Supporting Courses thumbnail
+01:19
+Supporting Courses
+
+CHAPTER 1.2
+
+About Your Training Architect thumbnail
+00:54
+About Your Training Architect
+
+CHAPTER 1.3
+
+Course Outline
+CHAPTER 1
+
+Introduction to Google Certified Associate Cloud Engineer Course
+09:47
+
+Becoming an Associate Engineer
+02:26
+
+Supporting Courses
+01:19
+About Your Training Architect
+00:54
+Exploring the Exam Guide
+05:08
+
+CHAPTER 2
+
+Introduction to Google Cloud
+1:17:33
+
+Section Intro
+01:06
+Understanding Google Cloud
+04:34
+Google Cloud Design and Structure
+02:27
+Networking Basics of Google Cloud
+04:28
+Security Overview of Google Cloud
+02:57
+Understanding Google Cloud APIs
+06:20
+Databases of Google Cloud
+03:42
+Introduction to Google Cloud Shell
+05:53
+Section Outro
+01:06
+QUIZ
+Introduction to Google Cloud Quiz
+45:00
+CHAPTER 3
+
+Setting Up Your GCP Organization
+1:00:42
+
+Section Intro
+00:42
+
+HANDS-ON LAB
+Planning and Estimating with Pricing Calculator
+1:00:00
+CHAPTER 4
+
+Cloud Storage
+54:27
+
+Storage Service Options
+05:00
+Using Storage Buckets
+11:17
+Bucket Features
+08:10
+QUIZ
+Cloud Storage Quiz
+30:00
+CHAPTER 5
+
+Compute Engine
+2:27:44
+
+Section Intro
+00:54
+Compute Engine
+05:15
+
+
+
+Managed Instance Groups
+08:57
+
+Managing Compute Engine Resources
+03:48
+Launch a Compute Instance VM
+08:52
+
+Virtual Private Cloud Networking
+05:38
+VPN Connections Know-How
+02:34
+Shared VPC Network
+06:46
+HANDS-ON LAB
+Creating a Load Balancer to Distribute Application Network Traffic to an Application
+1:15:00
+QUIZ
+Compute Engine Quiz
+30:00
+CHAPTER 6
+
+Kubernetes, App Engine, Cloud Run, Cloud Functions
+1:10:44
+
+Section Intro
+00:37
+Google Kubernetes Engine
+05:00
+Deploying a GKE Cluster
+10:01
+
+Managing a GKE Cluster
+08:24
+
+Section Outro
+01:42
+QUIZ
+GKE Quiz
+45:00
+CHAPTER 7
+
+App Engine
+1:02:44
+
+App Engine
+02:44
+HANDS-ON LAB
+Deploying and Managing an App Engine Solution in Google Cloud
+30:00
+QUIZ
+App Engine Quiz
+30:00
+CHAPTER 8
+
+Cloud Functions
+12:28
+
+Cloud Functions
+06:02
+Cloud Run, Cloud Build, Cloud Repositories
+06:26
+CHAPTER 9
+
+GCP Monitoring and Logging Services
+1:16:06
+
+Section Intro
+00:42
+Monitoring and Management Tools Overview
+01:25
+Setting Up Cloud Monitoring
+05:26
+
+Hands On with Cloud Logging
+05:43
+Viewing Cloud Audit Logs
+01:44
+Section Outro
+01:06
+HANDS-ON LAB
+Deploying App Infrastructure with Deployment Manager
+30:00
+HANDS-ON LAB
+Deploying a Solution Using Cloud MarketPlace
+30:00
+CHAPTER 10
+
+Big Data Resources
+12:22
+
+Big Data Services
+03:01
+Loading Data
+04:39
+
+Deploying and Implementing Data Solutions
+04:42
+CHAPTER 11
+
+Conclusion
+7:04:25
+
+Further Learning
+04:25
+PRACTICE EXAM
+Google Cloud Certified Associate Engineer Exam #1
+2:00:00
+PRACTICE EXAM
+Google Cloud Certified Associate Engineer Exam #2
+2:00:00
+PRACTICE EXAM
+Google Cloud Certified Associate Engineer Exam #3
