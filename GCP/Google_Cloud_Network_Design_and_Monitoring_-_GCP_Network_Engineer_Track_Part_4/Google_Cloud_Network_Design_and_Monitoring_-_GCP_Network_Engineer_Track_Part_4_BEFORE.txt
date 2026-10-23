@@ -1,0 +1,71 @@
+Course Outline
+CHAPTER 1
+
+Course Introduction
+01:09
+
+Course Introduction
+01:09
+
+
+CHAPTER 2
+
+Designing Your Network
+18:49
+
+Best Practices for Network Design
+18:49
+
+CHAPTER 3
+
+Cloud Deployment Manager
+1:27:13
+
+Cloud Deployment Manager
+07:21
+
+Cloud Deployment Manager Hands On
+19:52
+
+HANDS-ON LAB
+Deploying Resources with Google Cloud Deployment Manager
+1:00:00
+CHAPTER 4
+
+Managing Costs
+08:16
+
+Network Service Tiers
+08:16
+
+CHAPTER 5
+
+Monitoring and Logging
+34:20
+
+VPC Flow Logs
+03:13
+
+VPC Flow Logs Hands On
+14:55
+
+Firewall Logs
+05:24
+
+Firewall Logs Hands On
+10:48
+
+CHAPTER 6
+
+Cloud Storage
+11:46
+
+Optimize Cloud Storage Performance
+11:46
+
+CHAPTER 7
+
+Course Conclusion
+01:11
+
+Course Conclusion and Next Steps
