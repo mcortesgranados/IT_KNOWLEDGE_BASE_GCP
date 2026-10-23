@@ -1,0 +1,93 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+04:28
+
+Course Introduction
+03:41
+
+Prerequisites
+00:47
+CHAPTER 2
+
+Understanding Dataflow
+55:05
+
+Section Introduction
+01:46
+Grasping Dataflow Fundamentals
+10:17
+Examining Dataflow Concepts
+07:49
+Exploring Use Cases
+08:18
+Working with Streaming Data
+12:29
+Calculating Costs
+09:12
+
+Section Summary
+05:14
+CHAPTER 3
+
+Powering Up Your Dataflow Pipeline
+37:41
+
+Section Introduction
+01:31
+Working with Apache Beam
+07:42
+Creating and Configuring a Pipeline
+11:31
+Spinning Up Templated Pipelines
+05:21
+Managing Your Pipeline
+07:13
+Section Summary
+04:23
+CHAPTER 4
+
+Employing Advanced Dataflow Features
+24:54
+
+Section Introduction
+01:50
+Staging Custom Templates
+06:24
+Writing Cloud Dataflow SQL Statements
+03:46
+
+Utilizing AI Platform Notebooks
+09:39
+Section Summary
+03:15
+CHAPTER 5
+
+Integrating with Google Cloud Services
+2:55:13
+
+Section Introduction
+01:38
+Streaming with Cloud Pub/Sub
+13:09
+Monitoring Dataflow Pipelines
+07:12
+Looking at Logging
+07:54
+Controlling Access
+05:53
+HANDS-ON LAB
+Create a Streaming Data Pipeline on GCP with Cloud Pub/Sub, Dataflow, and BigQuery
+45:00
+HANDS-ON LAB
+Viewing Cloud IoT Core Data Using BigQuery
+1:30:00
+Section Summary
+04:27
+CHAPTER 6
+
+Conclusion
+01:37
+
+Next Steps
