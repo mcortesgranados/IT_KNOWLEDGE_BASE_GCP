@@ -1,0 +1,76 @@
+Course Outline
+CHAPTER 1
+
+Course Introduction
+01:36
+
+Course Intro
+01:36
+
+
+CHAPTER 2
+
+Cloud VPN
+1:48:12
+
+Connecting Your Network to Google
+02:39
+
+Cloud VPN
+07:45
+
+Dynamic Routing
+09:01
+
+Cloud VPN High Availability
+07:54
+
+Cloud VPN Static Routing Hands On
+09:11
+
+Cloud VPN Dynamic Routing Hands On
+11:42
+
+HANDS-ON LAB
+Connecting Networks with Google Cloud VPN Using Static Routes
+1:00:00
+CHAPTER 3
+
+Cloud Interconnect and Cloud Peering
+35:31
+
+Cloud Interconnect Overview
+09:34
+
+Provisioning Cloud Interconnect
+09:05
+
+Hands On - Provisioning Cloud Interconnect
+12:34
+
+Cloud Peering
+04:18
+
+CHAPTER 4
+
+Private Networking
+55:57
+
+Private Access on Google Cloud Platform
+11:25
+
+Cloud NAT Overview
+06:05
+
+Cloud NAT Hands On
+08:27
+
+HANDS-ON LAB
+Enable Public Internet Communication Using Cloud NAT on GCP
+30:00
+CHAPTER 5
+
+Wrapping Up
+00:49
+
+Course Conclusion and Next Steps
