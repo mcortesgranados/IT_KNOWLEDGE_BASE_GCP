@@ -1,0 +1,275 @@
+CHAPTER 01 Introduction
+01-01 Welcome
+
+01-02 About This Course
+
+01-03 Course Audience and Prerequisites
+
+01-04 A Note About Demo Lessons
+
+CHAPTER 02 Data Processing Fundamentals
+02-01 Data Processing Concepts
+
+02-02 Data Processing Pipelines
+
+CHAPTER 03 Storage and Databases
+03-01 Introduction to Data Storage in GCP
+
+03-02 Working with Data
+
+03-03 Cloud Storage
+
+03-04 Service Accounts
+
+03-05 Data Transfer Services
+
+03-06 Cloud SQL
+
+03-07 Demo Creating a Cloud SQL Instance and Loading Data
+
+03-08 HANDS-ON LAB Managing Google Cloud SQL Instances
+
+03-09 HANDS-ON LAB Working with Data in Google Cloud SQL
+
+03-10 Cloud Firestore
+
+03-11 HANDS-ON LAB Exploring Cloud Firestore in Datastore Mode
+
+03-12 HANDS-ON LAB Cloud Run Data in GCS and Firestore
+
+03-13 Cloud Spanner
+
+03-14 Demo Working with Cloud Spanner
+
+03-15 HANDS-ON LAB Setting Up for Google Cloud Spanner
+
+03-16 Cloud Memorystore
+
+03-17 Demo Working with Cloud Memorystore
+
+03-18 Comparing Storage Options
+
+03-19 Exam Tips
+
+03-20 QUIZ Google Certified Professional Data Engineer - Storage and Databases Quiz
+CHAPTER 04 Big Data Ecosystem
+04-01 MapReduce
+
+04-02 Hadoop & HDFS
+
+04-03 Apache Pig
+
+04-04 Apache Spark
+
+04-05 Apache Kafka
+
+CHAPTER 05 Real Time Messaging with Pub/Sub
+05-01 Pub/Sub Concepts
+
+05-02 Pub/Sub Basics
+
+05-03 Demo Working with Cloud Pub/Sub
+
+05-04 Demo Cloud Pub/Sub Client Libraries
+
+05-05 Advanced Pub/Sub
+
+05-06 Demo Loosely Coupled Services with Cloud Pub/Sub
+
+05-07 Demo Stream Data through Cloud Pub/Sub to BigQuery
+
+05-08 Exam Tips
+
+05-09 QUIZ Google Certified Professional Data Engineer - Real Time Messaging with Pub/Sub Quiz
+CHAPTER 06 Pipelines with Cloud Dataflow
+06-01 Dataflow Introduction
+
+06-02 Pipeline Lifecycle
+
+06-03 Dataflow Pipeline Concepts
+
+06-04 Advanced Dataflow Concepts
+
+06-05 Dataflow Security and Access
+
+06-06 Using Dataflow
+
+06-07 Exam Tips
+
+06-08 Demo Working with Cloud Dataflow
+
+06-09 Demo Streaming Pipelines with Cloud Dataflow
+
+06-10 HANDS-ON LAB Create a Streaming Data Pipeline on GCP with Cloud Pub/Sub, Dataflow, and BigQuery
+
+06-11 QUIZ Google Certified Professional Data Engineer - Pipelines with Cloud Dataflow Quiz
+CHAPTER 07 Managed Spark with Cloud Dataproc
+07-01 Dataproc Overview
+
+07-02 Dataproc Basics
+
+07-03 Demo Working with Cloud Dataproc
+
+07-04 Advanced Dataproc
+
+07-05 Demo Cloud Dataproc with the GCS Connector
+
+07-06 Exam Tips
+
+07-07 QUIZ Google Certified Professional Data Engineer - Managed Spark with Cloud Dataproc Quiz
+07-08 HANDS-ON LAB Running a Pyspark Job on Cloud Dataproc Using Google Cloud Storage
+
+CHAPTER 08 NoSQL Data with Cloud Bigtable
+08-01 Bigtable Concepts
+
+08-02 Bigtable Architecture
+
+08-03 Bigtable Data Model
+
+08-04 Demo Working with Cloud Bigtable
+
+08-05 Bigtable Schema Design
+
+08-06 Bigtable Advanced Concepts
+
+08-07 Demo Loading and Querying Data with Cloud Bigtable
+
+08-08 Exam Tips
+
+08-09 QUIZ Google Certified Professional Data Engineer - NoSQL Data with Cloud Bigtable Quiz
+CHAPTER 09 Data Analytics with BigQuery
+09-01 BigQuery Basics
+
+09-02 Using BigQuery
+
+09-03 Partitioning and Clustering
+
+09-04 Best Practices
+
+09-05 Securing BigQuery
+
+09-06 BigQuery Monitoring and Logging
+
+09-07 Machine Learning with BigQuery ML
+
+09-08 Exam Tips
+
+09-09 Demo Working with BigQuery
+
+09-10 Demo Advanced BigQuery Features
+
+09-11 QUIZ Google Certified Professional Data Engineer - Data Analytics with BigQuery Quiz
+CHAPTER 10 Exploration with Cloud Datalab
+10-01 Datalab Concepts
+
+10-02 Demo Working with Cloud Datalab
+
+10-03 Demo Jupyter Notebooks in GCP
+
+CHAPTER 11 Visualization with Cloud Data Studio
+11-01 Reporting and Business Intelligence
+
+11-02 Data Distributions
+
+11-03 Introduction to Data Studio
+
+11-04 Charts and Filters
+
+11-05 QUIZ Google Certified Professional Data Engineer - Visualization with Cloud Data Studio Quiz
+CHAPTER 12 Orchestration with Cloud Composer
+12-01 Cloud Composer Overview
+
+12-02 Cloud Composer Architecture
+
+12-03 Demo Working with Cloud Composer
+
+12-04 Advanced Cloud Composer
+
+CHAPTER 13 Introduction to Machine Learning
+13-01 Machine Learning Introduction
+
+13-02 Machine Learning Basics
+
+13-03 Machine Learning Types and Models
+
+13-04 Overfitting
+
+13-05 Hyperparameters
+
+13-06 Feature Engineering
+
+CHAPTER 14 Machine Learning with TensorFlow
+14-01 Deep Learning with TensorFlow
+
+14-02 Introduction to Artificial Neural Networks
+
+14-03 Neural Network Architectures
+
+14-04 Building a Neural Network
+
+14-05 QUIZ Google Certified Professional Data Engineer - Machine Learning with TensorFlow Quiz
+CHAPTER 15 Using Pre-Trained ML Cloud APIs
+15-01 Cloud AI Cloud APIs
+
+15-02 Vision
+
+15-03 Video Intelligence
+
+15-04 Language
+
+15-05 Conversation
+
+15-06 Demo Working with Cloud ML APIs
+
+15-07 QUIZ Google Certified Professional Data Engineer - Using Pre-Trained ML Cloud APIs Quiz
+CHAPTER 16 Leveraging Auto ML Platform
+16-01 Introduction to AutoML
+
+16-02 Sight with AutoML
+
+16-03 Language with AutoML
+
+16-04 Structured Data with AutoML
+
+16-05 QUIZ Google Certified Professional Data Engineer - Leveraging Auto ML Platform Quiz
+CHAPTER 17 Operationalizing Machine Learning Models
+17-01 Introduction to Operationalizing ML Models
+
+17-02 Kubeflow
+
+17-03 AI Platform
+
+CHAPTER 18 Data Security and Industry Regulation
+18-01 Security and Regulation Overview
+
+18-02 IAM Best Practices
+
+18-03 Data Security
+
+18-04 Data Privacy
+
+18-05 Industry Regulation
+
+CHAPTER 19 Dataprep
+19-01 Dataprep Overview
+
+19-02 Demo Working with Cloud Dataprep
+
+CHAPTER 20 Preparing for the Professional Data Engineer Exam
+20-01 Reference Architectures Big Data
+
+20-02 Reference Architectures Artificial Intelligence and Machine Learning
+
+20-03 Reference Architectures Internet of Things
+
+20-04 Reference Architectures Mobile & Gaming
+
+20-05 External Resources and Tutorials
+
+20-06 Exam Guide Breakdown
+
+20-07 What to Expect From the Exam
+
+20-08 Thank You and Good Luck!
+
+20-09 PRACTICE EXAM Google Certified Professional Data Engineer

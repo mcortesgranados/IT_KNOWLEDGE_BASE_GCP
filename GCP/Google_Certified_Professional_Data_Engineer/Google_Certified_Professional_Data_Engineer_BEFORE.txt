@@ -1,0 +1,587 @@
+
+Next Lessons
+Welcome thumbnail
+02:51
+Welcome
+
+CHAPTER 1.1
+
+About This Course thumbnail
+04:56
+About This Course
+
+CHAPTER 1.2
+
+Course Audience and Prerequisites thumbnail
+03:04
+Course Audience and Prerequisites
+
+CHAPTER 1.3
+
+Course Outline
+CHAPTER 1
+
+Introduction
+11:45
+
+Welcome
+02:51
+About This Course
+04:56
+
+Course Audience and Prerequisites
+03:04
+A Note About Demo Lessons
+00:54
+CHAPTER 2
+
+Data Processing Fundamentals
+15:22
+
+Data Processing Concepts
+08:33
+Data Processing Pipelines
+06:49
+CHAPTER 3
+
+Storage and Databases
+5:22:24
+
+Introduction to Data Storage in GCP
+07:26
+Working with Data
+04:50
+Cloud Storage
+10:03
+
+
+
+Service Accounts
+06:07
+
+
+Data Transfer Services
+03:52
+
+
+Cloud SQL
+09:17
+
+
+
+
+Demo: Creating a Cloud SQL Instance and Loading Data
+08:18
+
+HANDS-ON LAB
+Managing Google Cloud SQL Instances
+1:00:00
+HANDS-ON LAB
+Working with Data in Google Cloud SQL
+1:00:00
+Cloud Firestore
+08:31
+
+HANDS-ON LAB
+Exploring Cloud Firestore in Datastore Mode
+30:00
+HANDS-ON LAB
+Cloud Run Data in GCS and Firestore
+30:00
+Cloud Spanner
+11:45
+
+
+
+
+
+
+Demo: Working with Cloud Spanner
+06:00
+
+
+
+
+HANDS-ON LAB
+Setting Up for Google Cloud Spanner
+30:00
+Cloud Memorystore
+03:40
+
+Demo: Working with Cloud Memorystore
+10:30
+
+
+
+Comparing Storage Options
+05:14
+Exam Tips
+01:51
+QUIZ
+Google Certified Professional Data Engineer - Storage and Databases Quiz
+15:00
+CHAPTER 4
+
+Big Data Ecosystem
+34:05
+
+MapReduce
+06:22
+
+Hadoop & HDFS
+07:37
+Apache Pig
+03:09
+Apache Spark
+09:46
+Apache Kafka
+07:11
+CHAPTER 5
+
+Real Time Messaging with Pub/Sub
+1:22:29
+
+Pub/Sub Concepts
+06:35
+Pub/Sub Basics
+03:59
+Demo: Working with Cloud Pub/Sub
+10:38
+Demo: Cloud Pub/Sub Client Libraries
+09:54
+
+
+
+
+
+
+
+
+Advanced Pub/Sub
+07:24
+
+
+Demo: Loosely Coupled Services with Cloud Pub/Sub
+10:23
+
+Demo: Stream Data through Cloud Pub/Sub to BigQuery
+16:11
+
+
+
+Exam Tips
+02:25
+
+QUIZ
+Google Certified Professional Data Engineer - Real Time Messaging with Pub/Sub Quiz
+15:00
+CHAPTER 6
+
+Pipelines with Cloud Dataflow
+2:04:34
+
+Dataflow Introduction
+05:36
+
+
+Pipeline Lifecycle
+05:39
+
+
+Dataflow Pipeline Concepts
+05:47
+Advanced Dataflow Concepts
+05:41
+
+Dataflow Security and Access
+06:14
+Using Dataflow
+07:28
+
+
+
+
+Exam Tips
+02:35
+Demo: Working with Cloud Dataflow
+08:00
+
+Demo: Streaming Pipelines with Cloud Dataflow
+17:34
+
+
+
+HANDS-ON LAB
+Create a Streaming Data Pipeline on GCP with Cloud Pub/Sub, Dataflow, and BigQuery
+45:00
+QUIZ
+Google Certified Professional Data Engineer - Pipelines with Cloud Dataflow Quiz
+15:00
+CHAPTER 7
+
+Managed Spark with Cloud Dataproc
+1:14:35
+
+Dataproc Overview
+03:22
+Dataproc Basics
+03:42
+Demo: Working with Cloud Dataproc
+05:52
+
+
+
+
+Advanced Dataproc
+06:20
+
+
+
+Demo: Cloud Dataproc with the GCS Connector
+08:04
+
+
+
+Exam Tips
+02:15
+QUIZ
+Google Certified Professional Data Engineer - Managed Spark with Cloud Dataproc Quiz
+15:00
+HANDS-ON LAB
+Running a Pyspark Job on Cloud Dataproc Using Google Cloud Storage
+30:00
+CHAPTER 8
+
+NoSQL Data with Cloud Bigtable
+1:12:51
+
+Bigtable Concepts
+06:06
+Bigtable Architecture
+06:45
+
+
+
+
+Bigtable Data Model
+04:38
+
+Demo: Working with Cloud Bigtable
+13:00
+
+
+
+Bigtable Schema Design
+07:27
+
+Bigtable Advanced Concepts
+06:42
+
+Demo: Loading and Querying Data with Cloud Bigtable
+10:54
+
+
+
+
+
+
+
+Exam Tips
+02:19
+QUIZ
+Google Certified Professional Data Engineer - NoSQL Data with Cloud Bigtable Quiz
+15:00
+CHAPTER 9
+
+Data Analytics with BigQuery
+1:27:57
+
+BigQuery Basics
+05:31
+
+
+
+Using BigQuery
+13:10
+
+
+
+
+
+
+
+
+Partitioning and Clustering
+07:38
+
+
+Best Practices
+08:05
+
+
+
+Securing BigQuery
+04:32
+
+
+
+
+
+BigQuery Monitoring and Logging
+03:01
+
+
+Machine Learning with BigQuery ML
+03:51
+
+Exam Tips
+02:21
+Demo: Working with BigQuery
+10:03
+
+
+
+
+Demo: Advanced BigQuery Features
+14:45
+
+QUIZ
+Google Certified Professional Data Engineer - Data Analytics with BigQuery Quiz
+15:00
+CHAPTER 10
+
+Exploration with Cloud Datalab
+24:34
+
+Datalab Concepts
+03:37
+
+
+Demo: Working with Cloud Datalab
+11:21
+Demo: Jupyter Notebooks in GCP
+09:36
+
+CHAPTER 11
+
+Visualization with Cloud Data Studio
+34:00
+
+Reporting and Business Intelligence
+02:55
+Data Distributions
+08:13
+Introduction to Data Studio
+02:46
+Charts and Filters
+05:06
+QUIZ
+Google Certified Professional Data Engineer - Visualization with Cloud Data Studio Quiz
+15:00
+CHAPTER 12
+
+Orchestration with Cloud Composer
+26:45
+
+Cloud Composer Overview
+05:50
+Cloud Composer Architecture
+03:12
+Demo: Working with Cloud Composer
+13:52
+
+
+
+Advanced Cloud Composer
+03:51
+
+
+CHAPTER 13
+
+Introduction to Machine Learning
+55:15
+
+Machine Learning Introduction
+09:28
+
+
+
+Machine Learning Basics
+15:08
+
+
+
+
+
+
+
+Machine Learning Types and Models
+08:37
+
+
+
+
+
+Overfitting
+07:54
+
+
+
+
+
+Hyperparameters
+04:02
+
+
+Feature Engineering
+10:06
+
+
+CHAPTER 14
+
+Machine Learning with TensorFlow
+46:07
+
+Deep Learning with TensorFlow
+06:25
+
+
+
+
+
+Introduction to Artificial Neural Networks
+14:41
+
+
+
+
+Neural Network Architectures
+06:04
+Building a Neural Network
+03:57
+QUIZ
+Google Certified Professional Data Engineer - Machine Learning with TensorFlow Quiz
+15:00
+CHAPTER 15
+
+Using Pre-Trained ML Cloud APIs
+1:02:28
+
+Cloud AI Cloud APIs
+04:20
+Vision
+06:49
+Video Intelligence
+05:01
+Language
+08:04
+Conversation
+09:04
+
+
+
+Demo: Working with Cloud ML APIs
+14:10
+
+
+
+
+QUIZ
+Google Certified Professional Data Engineer - Using Pre-Trained ML Cloud APIs Quiz
+15:00
+CHAPTER 16
+
+Leveraging Auto ML Platform
+30:07
+
+Introduction to AutoML
+03:12
+Sight with AutoML
+04:28
+Language with AutoML
+04:09
+Structured Data with AutoML
+03:18
+QUIZ
+Google Certified Professional Data Engineer - Leveraging Auto ML Platform Quiz
+15:00
+CHAPTER 17
+
+Operationalizing Machine Learning Models
+11:20
+
+Introduction to Operationalizing ML Models
+04:24
+Kubeflow
+02:50
+AI Platform
+04:06
+CHAPTER 18
+
+Data Security and Industry Regulation
+25:37
+
+Security and Regulation Overview
+05:37
+IAM Best Practices
+06:12
+Data Security
+04:17
+
+Data Privacy
+03:58
+
+Industry Regulation
+05:33
+
+
+
+
+
+
+CHAPTER 19
+
+Dataprep
+17:10
+
+Dataprep Overview
+03:32
+Demo: Working with Cloud Dataprep
+13:38
+
+CHAPTER 20
+
+Preparing for the Professional Data Engineer Exam
+2:46:15
+
+Reference Architectures: Big Data
+08:33
+
+Reference Architectures: Artificial Intelligence and Machine Learning
+03:41
+
+
+Reference Architectures: Internet of Things
+03:57
+
+Reference Architectures: Mobile & Gaming
+04:03
+
+
+External Resources and Tutorials
+03:20
+
+
+
+
+
+
+
+Exam Guide Breakdown
+18:51
+What to Expect From the Exam
+02:51
+Thank You and Good Luck!
+00:59
+PRACTICE EXAM
+Google Certified Professional Data Engineer
