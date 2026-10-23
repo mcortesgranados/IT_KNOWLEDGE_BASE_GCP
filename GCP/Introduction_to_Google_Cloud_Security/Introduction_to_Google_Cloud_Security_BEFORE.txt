@@ -1,0 +1,136 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+00:42
+
+Course Introduction
+00:42
+
+CHAPTER 2
+
+Structure and Deployment
+40:21
+
+Structure and Deployment Introduction
+00:41
+Cloud Security Concepts
+12:20
+
+Organizational Structure
+05:10
+CI/CD
+07:38
+Billing
+07:41
+
+Structure and Deployment Summary
+06:51
+CHAPTER 3
+
+Authentication and Authorization
+22:39
+
+Authentication and Authorization Introduction
+00:24
+Identity, Authentication, and Authorization
+10:26
+Cloud Identity
+07:41
+
+
+
+Authentication and Authorization Summary
+04:08
+CHAPTER 4
+
+Networking
+26:25
+
+Networking Introduction
+00:16
+Virtual Private Cloud (VPC)
+10:50
+
+
+
+Firewalls
+11:34
+
+
+
+Networking Summary
+03:45
+CHAPTER 5
+
+Key and Secret Management
+24:37
+
+Key and Secret Management Introduction
+00:27
+Cloud Key Management
+11:48
+
+
+Secret Manager
+07:48
+
+Key and Secret Management Summary
+04:34
+CHAPTER 6
+
+Logging and Detection
+36:38
+
+Logging and Detection Introduction
+00:24
+Security Command Center
+11:20
+
+Detection
+08:16
+
+
+Monitoring and Compliance
+10:56
+
+
+
+
+Logging and Detection Summary
+05:42
+CHAPTER 7
+
+Deploying Secured Apps
+36:10
+
+Deploying Secured Apps Introduction
+00:13
+App Security
+10:57
+
+
+
+
+Cloud Run
+11:01
+
+
+
+
+
+
+
+Secured Apps
+08:16
+
+Deploying Secured Apps Summary
+05:43
+CHAPTER 8
+
+Conclusion
+08:01
+
+Course Summary
+07:26
+Conclusion and What’s Next
