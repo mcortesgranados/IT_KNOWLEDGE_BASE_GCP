@@ -1,0 +1,230 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+06:39
+
+Course Introduction
+05:16
+
+
+About the Training Architect
+01:23
+CHAPTER 2
+
+Resource Manager
+19:22
+
+Resource Hierarchy
+06:16
+Policies and Constraints
+04:11
+Resource Manager Hands-On
+05:03
+Super Admin Best Practices
+03:52
+CHAPTER 3
+
+Cloud IAM
+1:53:37
+
+Cloud IAM Overview
+10:31
+Cloud IAM Hands-On
+17:03
+Service Accounts
+07:22
+Service Accounts Hands-On
+19:08
+Cloud Identity
+08:35
+Cloud IAM Best Practices
+05:58
+HANDS-ON LAB
+Understanding Service Accounts and Scopes on Google Compute Engine
+45:00
+CHAPTER 4
+
+Network Security
+3:22:06
+
+Virtual Private Cloud (VPC)
+08:40
+
+VPC Hands-On
+11:09
+VPC Peering
+11:13
+VPC Peering Hands-On
+14:49
+Shared VPC
+09:34
+Network Isolation and Firewall Rules
+09:01
+Firewall Rules Hands-On
+08:38
+Load Balancing
+19:07
+Cloud Interconnect and Cloud VPN
+09:51
+Cloud DNS and DNSSEC
+07:03
+VPC Best Practices
+03:01
+
+HANDS-ON LAB
+Connecting Networks with Google Cloud VPN Using Static Routes
+1:00:00
+HANDS-ON LAB
+Create Firewall Rules on a Google Cloud VPC Network
+30:00
+CHAPTER 5
+
+Encryption on Google Cloud Platform
+1:19:53
+
+Encryption Overview
+03:44
+Encryption at Rest
+11:36
+Encryption in Transit
+11:10
+Cloud KMS
+12:09
+Creating and Managing Encryption Keys Hands-On
+11:14
+
+
+HANDS-ON LAB
+Handling Encryption Keys with Cloud KMS
+30:00
+CHAPTER 6
+
+Data Protection
+1:04:45
+
+Identity-Aware Proxy (IAP)
+08:27
+Cloud Data Loss Prevention (DLP)
+15:27
+
+Cloud Data Loss Prevention (DLP) Hands-On
+07:49
+Distributed Denial of Service Attacks (DDoS) Mitigation
+08:34
+
+Security Partner Products
+03:07
+Cloud Armor
+06:07
+Cloud Security Scanner
+02:59
+Cloud Security Command Center
+05:37
+Forseti
+06:38
+CHAPTER 7
+
+Compute and Storage Security
+1:24:52
+
+Compute Engine Best Practices
+07:11
+Google Kubernetes Engine (GKE) Security
+19:36
+Secrets Manager
+07:42
+
+Cloud Storage and Storage Types
+07:30
+Cloud Storage Permissions and Access Control Lists (ACLs)
+04:53
+Data Retention Policies using Bucket Lock
+04:35
+BigQuery Security
+03:25
+HANDS-ON LAB
+Applying Signed URLs to Cloud Storage Objects
+30:00
+CHAPTER 8
+
+Managing Operations in a Cloud Environment
+21:17
+
+Managing GCP Migrations
+10:29
+Disaster Recovery
+05:57
+
+Backup and Recovery
+04:51
+CHAPTER 9
+
+Cloud Monitoring
+23:02
+
+Stackdriver Overview
+03:22
+Cloud Logging
+06:02
+
+VPC Flow Logs
+02:56
+Cloud Monitoring and Alerting
+03:44
+Stackdriver APM and Error Reporting
+04:49
+Exporting Stackdriver Logs
+02:09
+CHAPTER 10
+
+Compliance
+14:58
+
+Google's Shared Responsibility Model
+02:50
+Google Security Overview
+08:15
+
+Standards, Regulations, and Certifications
+03:53
+CHAPTER 11
+
+Next Steps
+2:07:54
+
+Preparing for the Exam
+07:54
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRACTICE EXAM
+Google Cloud Professional Cloud Security Engineer

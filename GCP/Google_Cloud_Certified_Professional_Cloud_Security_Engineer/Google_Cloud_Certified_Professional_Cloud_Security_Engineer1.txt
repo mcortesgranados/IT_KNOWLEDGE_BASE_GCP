@@ -1,0 +1,136 @@
+CHAPTER 01 Introduction
+01-01 Course Introduction
+
+01-02 About the Training Architect
+
+CHAPTER 02 Resource Manager
+02-01 Resource Hierarchy
+
+02-02 Policies and Constraints
+
+02-03 Resource Manager Hands-On
+
+02-04 Super Admin Best Practices
+
+CHAPTER 03 Cloud IAM
+03-01 Cloud IAM Overview
+
+03-02 Cloud IAM Hands-On
+
+03-03 Service Accounts
+
+03-04 Service Accounts Hands-On
+
+03-05 Cloud Identity
+
+03-06 Cloud IAM Best Practices
+
+03-07 HANDS-ON LAB Understanding Service Accounts and Scopes on Google Compute Engine
+
+CHAPTER 04 Network Security
+04-01 Virtual Private Cloud (VPC)
+
+04-02 VPC Hands-On
+
+04-03 VPC Peering
+
+04-04 VPC Peering Hands-On
+
+04-05 Shared VPC
+
+04-06 Network Isolation and Firewall Rules
+
+04-07 Firewall Rules Hands-On
+
+04-08 Load Balancing
+
+04-09 Cloud Interconnect and Cloud VPN
+
+04-10 Cloud DNS and DNSSEC
+
+04-11 VPC Best Practices
+
+04-12 HANDS-ON LAB Connecting Networks with Google Cloud VPN Using Static Routes
+
+04-13 HANDS-ON LAB Create Firewall Rules on a Google Cloud VPC Network
+
+CHAPTER 05 Encryption on Google Cloud Platform
+05-01 Encryption Overview
+
+05-02 Encryption at Rest
+
+05-03 Encryption in Transit
+
+05-04 Cloud KMS
+
+05-05 Creating and Managing Encryption Keys Hands-On
+
+05-06 HANDS-ON LAB Handling Encryption Keys with Cloud KMS
+
+CHAPTER 06 Data Protection
+06-01 Identity-Aware Proxy (IAP)
+
+06-02 Cloud Data Loss Prevention (DLP)
+
+06-03 Cloud Data Loss Prevention (DLP) Hands-On
+
+06-04 Distributed Denial of Service Attacks (DDoS) Mitigation
+
+06-05 Security Partner Products
+
+06-06 Cloud Armor
+
+06-07 Cloud Security Scanner
+
+06-08 Cloud Security Command Center
+
+06-09 Forseti
+
+CHAPTER 07 Compute and Storage Security
+07-01 Compute Engine Best Practices
+
+07-02 Google Kubernetes Engine (GKE) Security
+
+07-03 Secrets Manager
+
+07-04 Cloud Storage and Storage Types
+
+07-05 Cloud Storage Permissions and Access Control Lists (ACLs)
+
+07-06 Data Retention Policies using Bucket Lock
+
+07-07 BigQuery Security
+
+07-08 HANDS-ON LAB Applying Signed URLs to Cloud Storage Objects
+
+CHAPTER 08 Managing Operations in a Cloud Environment
+08-01 Managing GCP Migrations
+
+08-02 Disaster Recovery
+
+08-03 Backup and Recovery
+
+CHAPTER 09 Cloud Monitoring
+09-01 Stackdriver Overview
+
+09-02 Cloud Logging
+
+09-03 VPC Flow Logs
+
+09-04 Cloud Monitoring and Alerting
+
+09-05 Stackdriver APM and Error Reporting
+
+09-06 Exporting Stackdriver Logs
+
+CHAPTER 10 Compliance
+10-01 Google's Shared Responsibility Model
+
+10-02 Google Security Overview
+
+10-03 Standards, Regulations, and Certifications
+
+CHAPTER 11 Next Steps
+11-01 Preparing for the Exam
+
+11-02 PRACTICE EXAM Google Cloud Professional Cloud Security Engineer
