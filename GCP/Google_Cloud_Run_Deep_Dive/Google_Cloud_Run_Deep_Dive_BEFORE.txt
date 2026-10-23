@@ -1,0 +1,104 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+03:48
+
+Welcome to the Course
+02:18
+
+Prerequisites
+01:30
+CHAPTER 2
+
+Cloud Run in a Nutshell
+52:03
+
+A Brief History of Deployments
+05:12
+The Cloud Run Model
+05:04
+
+Workflow and Developer Environment
+03:22
+
+Your First Deployment
+08:25
+HANDS-ON LAB
+Your First Cloud Run Deployment
+30:00
+CHAPTER 3
+
+Deployment Wizardry
+2:03:44
+
+Rollouts, Rollbacks, Versions, and Traffic Splitting
+10:05
+Continuous Deployments
+13:08
+Triggering and Scheduling Cloud Run
+10:31
+HANDS-ON LAB
+Cloud Run Revisions and Traffic Routing
+30:00
+HANDS-ON LAB
+Cloud Run Deployments with CI/CD
+30:00
+HANDS-ON LAB
+Triggering Cloud Run with Pub/Sub
+30:00
+CHAPTER 4
+
+Integrating with GCP Services
+1:21:26
+
+Cloud Run with Cloud Storage
+06:09
+Cloud Run with Databases
+06:34
+Cloud Run with Secret Manager
+08:43
+HANDS-ON LAB
+Cloud Run Data in GCS and Firestore
+30:00
+HANDS-ON LAB
+Using Cloud Run with Secret Manager
+30:00
+CHAPTER 5
+
+Cloud Run Operations
+46:00
+
+Advanced Cloud Run Configuration
+06:32
+
+
+
+Integrating Testing for Deployments
+05:23
+Monitoring and Logging
+04:05
+
+HANDS-ON LAB
+Troubleshooting Cloud Run Deployments
+30:00
+CHAPTER 6
+
+Security and Authentication
+45:46
+
+Managing Access and Service Identity
+08:55
+End-User Authentication
+06:51
+HANDS-ON LAB
+Securing Microservices in Cloud Run
+30:00
+CHAPTER 7
+
+Conclusion
+07:58
+
+Coming Soon to Cloud Run
+04:31
+Thanks for Taking This Course!
