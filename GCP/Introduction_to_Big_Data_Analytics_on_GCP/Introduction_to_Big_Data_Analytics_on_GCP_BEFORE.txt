@@ -1,0 +1,182 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+03:51
+
+Course Introduction
+02:03
+
+Environment Setup
+01:48
+CHAPTER 2
+
+Big Data Fundamentals
+1:26:42
+
+Introduction: Big Data Fundamentals
+00:44
+What Is Big Data and Why Does It Matter?
+08:22
+The Data Landscape on GCP
+10:20
+Working with Public Datasets
+05:11
+Recap: Big Data Fundamentals
+02:05
+QUIZ
+Big Data Foundations
+30:00
+HANDS-ON LAB
+Exploring a BigQuery Public Dataset
+30:00
+CHAPTER 3
+
+Building a Data Lake
+1:48:14
+
+Introduction: Building a Data Lake
+01:00
+What Is a Data Lake?
+06:11
+Data Storage Options on GCP
+10:12
+ETL Options on GCP
+06:29
+Building a Data Lake with Cloud Storage
+12:20
+Extending the Data Lake with Cloud SQL
+08:01
+Recap: Building a Data Lake
+04:01
+QUIZ
+Building a Data Lake
+30:00
+HANDS-ON LAB
+Setting Cloud Storage Lifecycle Rules
+30:00
+CHAPTER 4
+
+Streaming Data in Google Cloud
+1:47:46
+
+Introduction: Streaming Data in Google Cloud
+00:47
+Ingesting Data with Pub/Sub
+07:32
+Demo: Ingesting Data with Pub/Sub
+06:21
+Streaming Data with Apache Beam
+08:26
+Streaming Data with Dataflow
+07:37
+Recap: Streaming Data on GCP
+02:03
+QUIZ
+Streaming Data in Google Cloud
+30:00
+HANDS-ON LAB
+Setting Up a Data Streaming Pipeline with Dataflow
+45:00
+CHAPTER 5
+
+Processing Data for Analytics
+1:51:19
+
+Introduction: Processing Data for Analytics
+00:36
+Prepare and Process Data with Dataprep
+13:20
+Run Apache Spark Jobs with Dataproc
+10:20
+Data Processing with Dataflow
+09:47
+Recap: Processing Data for Analytics
+02:16
+QUIZ
+Processing Data for Analytics
+30:00
+HANDS-ON LAB
+Running a Spark Job on a Dataproc Cluster
+45:00
+CHAPTER 6
+
+BigQuery, the Modern Data Warehouse
+2:32:29
+
+Introduction: BigQuery, the Modern Data Warehouse
+00:57
+Introduction to BigQuery
+08:14
+Loading Data into BigQuery
+07:15
+Working with Data Schemas and Sessions
+07:11
+Working with Views and Materialized Views
+05:42
+Working with Geospatial Analytics
+06:02
+
+Partitioning and Clustering in BigQuery
+08:02
+Introduction to BigQuery ML
+07:36
+
+Unifying Data Lakes and Warehouses with BigLake
+06:35
+Recap: BigQuery, the Modern Data Warehouse
+04:55
+QUIZ
+BigQuery, the Modern Data Warehouse
+45:00
+HANDS-ON LAB
+Predicting with BigQuery ML
+45:00
+CHAPTER 7
+
+Visualizing Data with Looker and Data Studio
+37:51
+
+Introduction: Visualizing Data with Looker and Data Studio
+00:35
+Introduction to Looker and Data Studio
+06:10
+Visualize BigQuery Data
+04:58
+Create Interactive Reports in Data Studio
+09:04
+Recap: Visualizing Data with Looker and Data Studio
+02:04
+QUIZ
+Visualizing Data with Looker and Data Studio
+15:00
+CHAPTER 8
+
+Gaining Insights with AI
+1:22:27
+
+Introduction: Gaining Insights with AI
+00:31
+A (Short) Introduction to Vertex AI
+08:25
+API Services
+06:54
+Demo: API Services
+05:05
+
+Recap: Gaining Insights with AI
+01:32
+QUIZ
+Gaining Insights with AI
+15:00
+HANDS-ON LAB
+Classifying Content with the Natural Language API
+45:00
+CHAPTER 9
+
+Conclusion
+02:46
+
+Course Summary
+01:24
+Conclusion and What’s Next
