@@ -1,0 +1,160 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+00:52
+
+Course Introduction
+00:52
+CHAPTER 2
+
+Working with Google Cloud
+06:56
+
+Signing Up for Google Cloud
+03:06
+Navigating the Console
+03:50
+CHAPTER 3
+
+Safeguarding Identity and Security
+34:03
+
+Securing Your Organization with Identity and Access Management
+08:51
+Connecting to Your Services Using Service Accounts
+07:49
+Examining Other Identity and Security Services
+02:23
+QUIZ
+Safeguarding Identity and Security
+15:00
+CHAPTER 4
+
+Building and Optimizing Your GCP Network
+1:11:28
+
+Building a Custom Virtual Private Cloud
+07:32
+Constructing Your First Cloud Load Balancer
+06:17
+Using Cloud CDN to Deliver Cached Content
+09:58
+Investigating Hybrid Connectivity Options
+02:41
+QUIZ
+Building and Optimizing Your GCP Network
+15:00
+HANDS-ON LAB
+Creating a Custom VPC Network through the Google Cloud Shell
+30:00
+CHAPTER 5
+
+Running Applications with Compute
+1:55:39
+
+Configuring Virtual Machines with Compute Engine
+10:04
+Launching an Application with App Engine
+08:37
+Deploying and Scaling Containers with Kubernetes
+10:10
+
+Standardizing Serverless Containers with Cloud Run
+07:17
+Managing Hybrid Applications with Anthos
+04:31
+QUIZ
+Running Applications with Compute
+15:00
+HANDS-ON LAB
+Deploying a Kubernetes Cluster Using Google Kubernetes Engine
+30:00
+HANDS-ON LAB
+Bootstrapping a Google Compute Engine Linux Instance
+30:00
+CHAPTER 6
+
+Managing Storage and Databases
+2:05:15
+
+Uploading and Preserving Objects in Cloud Storage
+13:03
+Working with Persistent Block Storage
+11:31
+
+Handling Relational Data and Backups with CloudSQL
+10:34
+Managing Non-Relational Data
+04:47
+Performing Data Migration with Database Migration Service
+03:47
+Exploring Additional Data Services
+06:33
+QUIZ
+Managing Storage and Databases
+15:00
+HANDS-ON LAB
+Setting Up for Cloud Spanner
+30:00
+HANDS-ON LAB
+Setting Retention Policies and Lifecycle Rules in Google Cloud Storage
+30:00
+CHAPTER 7
+
+Using Smart Analytics
+1:12:17
+
+Running Analytics at Scale with BigQuery
+06:17
+Analyzing Event Streams with Dataflow
+10:16
+
+Messaging with Pub/Sub
+07:56
+Exploring Other Smart Analytics Services
+02:48
+QUIZ
+Using Smart Analytics
+15:00
+HANDS-ON LAB
+Handling Messages with Pub/Sub
+30:00
+CHAPTER 8
+
+Upgrading to the Operations Suite
+41:55
+
+Monitoring Uptime, Performance, and Health with Cloud Monitoring
+09:07
+Managing Logs with Cloud Logging
+08:46
+Monitoring Managed Services with Prometheus
+06:22
+Exploring Additional Services in the Operations Suite
+02:40
+QUIZ
+Upgrading to the Operations Suite
+15:00
+CHAPTER 9
+
+Moving to the Cutting Edge with Google Cloud
+26:35
+
+Getting Started with Vertex AI
+02:34
+Building a Transcript with Speech-to-Text
+06:07
+Exploring Additional Cutting-Edge Services
+02:54
+QUIZ
+Cutting-Edge Services in Google Cloud
+15:00
+CHAPTER 10
+
+Conclusion
+02:14
+
+Course Summary
+01:33
+Conclusion and What’s Next
