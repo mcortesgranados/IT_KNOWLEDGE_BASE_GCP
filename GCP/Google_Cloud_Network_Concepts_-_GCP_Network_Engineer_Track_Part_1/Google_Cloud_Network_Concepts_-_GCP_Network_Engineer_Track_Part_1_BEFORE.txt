@@ -1,0 +1,83 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+08:29
+
+Course Introduction
+02:46
+
+
+Using the Interactive Diagram
+01:43
+
+Role of the Google Cloud Network Engineer
+04:00
+
+CHAPTER 2
+
+GCP Networking Fundamentals
+3:11:19
+
+Google Cloud Networking Infrastructure
+07:43
+
+What is a Virtual Private Cloud (VPC)?
+08:41
+
+Subnets
+11:41
+
+Using the GCP Sandbox Environment
+02:58
+
+Hands On - VPCs and Subnets
+17:06
+
+IP Addresses
+10:19
+
+Hands On - IP Addresses
+16:30
+
+Firewalls
+11:12
+
+Hands On - Firewalls
+17:15
+
+Routing
+09:57
+
+Hands On - Routing
+17:57
+
+HANDS-ON LAB
+Creating a Custom Mode VPC Network on Google Cloud Platform
+30:00
+HANDS-ON LAB
+Create Firewall Rules on a Google Cloud VPC Network
+30:00
+CHAPTER 3
+
+Securing Your VPC Networks
+47:07
+
+Cloud IAM
+13:39
+
+Hands On - Cloud IAM
+14:39
+
+Connecting to Compute Engine Instances
+09:12
+
+Cloud Armor
+09:37
+
+CHAPTER 4
+
+Next Steps
+00:47
+
+Course Conclusion and Next Steps
