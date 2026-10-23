@@ -1,0 +1,64 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+11:49
+
+Introduction
+04:07
+
+Covering the Course Checklist
+07:42
+
+
+
+
+
+
+
+CHAPTER 2
+
+Setting Up an Organization on GCP
+2:29:47
+
+Setting Up a GCP Organization Introduction
+02:31
+Explaining the GCP Hierarchy
+09:18
+
+
+
+Onboarding an Organization to GCP
+12:43
+
+
+Using Identity and Access Management
+14:40
+Available IAM Roles
+13:55
+
+
+Hands-On with Roles
+12:30
+
+Overseeing Service Accounts
+14:09
+
+Managing Billing Accounts
+14:10
+
+
+Planning and Estimating with the Pricing Calculator
+15:12
+
+Section Summary
+10:39
+QUIZ
+Skill Level 1 Quiz: Onboarding an Organization to GCP
+30:00
+CHAPTER 3
+
+Conclusion
+02:49
+
+Course Conclusion & Next Steps
