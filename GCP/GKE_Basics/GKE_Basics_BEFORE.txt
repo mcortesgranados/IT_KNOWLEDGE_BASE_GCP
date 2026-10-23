@@ -1,0 +1,52 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+03:40
+
+Welcome to the Course
+03:40
+CHAPTER 2
+
+Kubernetes Fundamentals
+50:32
+
+Understanding Clusters and Nodes
+07:17
+
+Exploring Pods, ReplicaSets, and Deployments
+08:34
+
+Accessing Services
+04:41
+HANDS-ON LAB
+Hello World in GKE
+30:00
+CHAPTER 3
+
+Operating GKE
+46:51
+
+Exploring Deployment Patterns
+03:45
+
+
+Creating Stateful Applications and Storage
+08:56
+
+
+Using Secrets and Configurations
+04:10
+
+
+HANDS-ON LAB
+Deploying WordPress and MySQL to GKE
+30:00
+CHAPTER 4
+
+Conclusion
+03:46
+
+Course Summary
+02:38
+Conclusion and What's Next
