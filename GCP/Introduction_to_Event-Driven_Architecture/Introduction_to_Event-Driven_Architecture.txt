@@ -1,0 +1,24 @@
+CHAPTER 01 Introduction
+01-01 Course Introduction
+
+01-02 About the Training Architect
+
+CHAPTER 02 Event-Driven Architecture
+02-01 Introduction to Event-Driven Architecture
+
+02-02 Legacy Event Processing
+
+02-03 Event-Driven Architecture Part 1
+
+02-04 Event-Driven Architecture Part 2
+
+02-05 Message vs. Event
+
+02-06 A Word on Idempotency
+
+CHAPTER 03 Conclusion
+03-01 QUIZ Quiz: Introduction to Event-Driven Architecture
+03-02 Course Summary
+
+03-03 Conclusion and What’s Next
+
