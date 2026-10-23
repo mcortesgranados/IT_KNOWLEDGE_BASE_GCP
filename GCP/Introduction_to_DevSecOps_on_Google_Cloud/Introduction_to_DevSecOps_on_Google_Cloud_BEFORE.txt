@@ -1,0 +1,96 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+02:31
+
+Course Introduction
+02:31
+
+CHAPTER 2
+
+Demystifying DevSecOps
+1:24:14
+
+Introduction
+03:03
+Paradigm Shift in Security Testing
+09:26
+Introducing DevSecOps
+12:15
+
+
+
+Is Your Project a Good Fit for DevSecOps?
+06:28
+Introducing DevSecOps in Your Delivery Pipeline
+09:18
+Building Security Iteratively in a DevSecOps Environment
+10:07
+
+
+
+
+
+QUIZ
+Demystifying DevSecOps
+30:00
+Summary
+03:37
+CHAPTER 3
+
+Designing Secure Development Practices
+57:32
+
+Introduction
+01:59
+
+Security Practices in the Development Phase
+12:28
+
+Introducing GCP Services Used in the Code and Build Phases
+07:24
+Demo: Checking for Security Credentials in the Repository
+05:27
+
+Demo: Integrating SAST and SCA in DevSecOps
+11:42
+
+QUIZ
+Designing Secure Development Practices
+15:00
+Summary
+03:32
+CHAPTER 4
+
+Designing Secure Operational Practices
+1:02:57
+
+Introduction
+02:01
+Security Practices in the Operations Phase
+07:57
+Introducing GCP Services Used in the Release and Deploy Phases
+07:56
+Demo: Vulnerability Scanning Using Artifact Registry
+06:51
+Demo: Integrating Binary Authorization in DevSecOps
+04:27
+
+
+
+Security Monitoring Using Security Command Center
+06:38
+Continuously Improving Performance with SRE Practices
+08:05
+QUIZ
+Designing Secure Operational Practices
+15:00
+Summary
+04:02
+CHAPTER 5
+
+Conclusion
+02:39
+
+Course Summary and Next Steps
