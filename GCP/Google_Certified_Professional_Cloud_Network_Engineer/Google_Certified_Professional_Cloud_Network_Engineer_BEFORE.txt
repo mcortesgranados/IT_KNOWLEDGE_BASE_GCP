@@ -1,0 +1,280 @@
+
+Next Lessons
+Welcome thumbnail
+04:38
+Welcome
+
+CHAPTER 1.1
+
+Exam Guide thumbnail
+10:51
+Exam Guide
+
+CHAPTER 1.2
+
+Additional Resources thumbnail
+05:58
+Additional Resources
+
+CHAPTER 1.3
+
+Course Outline
+CHAPTER 1
+
+Introduction
+28:50
+
+Welcome
+04:38
+
+Exam Guide
+10:51
+
+
+
+Additional Resources
+05:58
+
+
+
+
+
+
+
+
+RFC1918 IP Address Allocation for Private Internets
+06:29
+
+
+
+A Note About Demo Lessons
+00:54
+CHAPTER 2
+
+Identity and Access Management
+50:02
+
+Identity Access Management
+14:22
+
+
+Network IAM Roles
+11:28
+
+Service Accounts
+09:12
+
+QUIZ
+Google Certified Professional Cloud Network Engineer - Identity and Access Management Quiz
+15:00
+CHAPTER 3
+
+Designing, Planning and Implementing a VPC Network
+2:05:07
+
+GCP Global Network
+08:37
+
+
+
+
+Making a VPC
+16:42
+
+
+
+VPC Routes
+09:29
+
+
+
+VPC Firewall Rules
+12:39
+
+
+
+VPC Peering
+07:00
+
+
+Shared VPC
+10:08
+
+
+Cloud NAT
+10:03
+
+
+
+Private Google Access
+05:29
+
+
+
+QUIZ
+Google Certified Professional Cloud Network Engineer - Designing, Planning and Implementing a VPC Network Quiz
+15:00
+HANDS-ON LAB
+Creating a Custom Mode VPC Network on Google Cloud Platform
+30:00
+CHAPTER 4
+
+Kubernetes, Clusters & VPC Interactions
+1:06:39
+
+Kubernetes Cluster Networking
+12:18
+
+GKE Cluster IP Allocation
+16:52
+
+
+GKE Private Clusters
+09:05
+
+Shared VPC Clusters
+05:07
+
+Network Policy
+08:17
+
+QUIZ
+Google Certified Professional Cloud Network Engineer - Kubernetes, Clusters & VPC Interactions Quiz
+15:00
+CHAPTER 5
+
+Load Balancing
+3:02:20
+
+Load Balance Overview
+08:30
+Global Load Balancer - HTTPs and Use Cases
+11:05
+
+
+TCP & SSL Global Load Balancers
+15:26
+
+
+Network Load Balancer
+09:42
+
+Internal Load Balancing
+08:51
+Managed Instances
+07:43
+
+Network Endpoint Groups
+04:04
+
+Cloud Armor Policies - Whitelisting and Blacklisting IPs
+11:59
+
+QUIZ
+Google Certified Professional Cloud Network Engineer - Load Balancing Quiz
+15:00
+HANDS-ON LAB
+Creating a Load-Balanced Managed Instance Group on Google Cloud Platform
+1:00:00
+HANDS-ON LAB
+Protecting Google Cloud VPC Resources with Cloud Armor
+30:00
+CHAPTER 6
+
+DNS and CDN Network Services
+1:59:30
+
+Cloud DNS and CDN
+07:41
+
+
+Managed DNS Zones
+10:57
+
+DNS Forwarding and DNS Peering
+08:37
+
+DNS Security
+09:22
+
+Content Delivery Network
+06:26
+
+Cloud CDN Cache Control
+08:56
+
+Signed URLs
+07:31
+
+QUIZ
+Google Certified Professional Cloud Network Engineer - DNS and CDN Network Services Quiz
+15:00
+HANDS-ON LAB
+Optimize Websites Using Cloud CDN on Google Cloud
+45:00
+CHAPTER 7
+
+Monitoring Network Operations
+1:12:00
+
+Managing Network Operations
+11:13
+
+VPC Flow Logs
+10:25
+
+Firewall Rule Logs
+12:49
+
+Cloud Monitoring
+18:31
+
+Summary
+04:02
+QUIZ
+Google Certified Professional Cloud Network Engineer - Monitoring Network Operations Quiz
+15:00
+CHAPTER 8
+
+Hybrid Networks
+1:55:16
+
+Hybrid Connections
+12:29
+
+
+Dedicated Interconnect
+08:49
+
+
+Partner Interconnect
+09:32
+
+Cloud VPN
+17:20
+
+VLAN attachments
+13:24
+
+Cloud Router
+12:44
+
+Peered Connections
+09:30
+
+
+Highly Available Connections
+16:28
+
+QUIZ
+Google Certified Professional Cloud Network Engineer - Hybrid Networks Quiz
+15:00
+CHAPTER 9
+
+Conclusion and More to Come
+2:01:42
+
+Conclusion
+01:42
+PRACTICE EXAM
+Google Certified Professional Cloud Network Engineer
