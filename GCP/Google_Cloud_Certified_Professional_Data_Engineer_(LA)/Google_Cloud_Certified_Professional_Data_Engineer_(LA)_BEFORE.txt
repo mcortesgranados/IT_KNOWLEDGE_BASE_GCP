@@ -1,0 +1,408 @@
+Course Outline
+CHAPTER 1
+
+Getting Started
+20:57
+
+Course Introduction
+05:48
+
+
+
+
+About the Training Architect
+00:41
+
+Course Updated for March 2019 Refresh
+01:09
+
+Intro to the Data Dossier - Interactive Study Guide
+04:53
+
+
+Course and Exam Overview
+05:06
+
+
+What is a Data Engineer
+03:20
+
+
+CHAPTER 2
+
+Foundational Concepts
+1:07:51
+
+Data Lifecycle
+11:42
+
+
+Batch and Streaming Data
+05:28
+
+
+Cloud Storage as Staging Ground
+07:16
+
+
+Database Types
+07:21
+
+
+Monitoring Unmanaged Databases
+06:04
+
+
+QUIZ
+Google Cloud Data Engineer - Foundational Concepts
+30:00
+CHAPTER 3
+
+Cloud SQL
+2:40:08
+
+Choosing a Managed Database
+07:15
+
+
+Cloud SQL Basics
+05:08
+
+
+Cloud SQL Hands On
+12:46
+
+Importing Data
+12:10
+
+
+SQL Query Best Practices
+02:49
+
+
+HANDS-ON LAB
+Managing Google Cloud SQL Instances
+1:00:00
+HANDS-ON LAB
+Working with Data in Google Cloud SQL
+1:00:00
+CHAPTER 4
+
+Datastore
+1:13:13
+
+Datastore Overview
+09:21
+
+
+Data Organization
+16:03
+
+
+Queries and Indexing
+11:30
+
+
+Data Consistency
+06:19
+
+
+HANDS-ON LAB
+Exploring Cloud Firestore in Datastore Mode
+30:00
+CHAPTER 5
+
+Bigtable
+40:02
+
+Bigtable Overview
+07:44
+
+
+Instance Configuration
+18:12
+
+
+Data Organization
+05:29
+
+
+Schema Design
+08:37
+
+
+CHAPTER 6
+
+Cloud Spanner
+1:30:15
+
+Cloud Spanner Overview
+11:17
+
+
+Data Organization and Schema
+07:12
+
+
+Hands On and Viewing Examples
+11:46
+
+QUIZ
+QUIZ: Managed Databases on Google Cloud
+30:00
+HANDS-ON LAB
+Setting Up for Google Cloud Spanner
+30:00
+CHAPTER 7
+
+Real Time Messaging with Cloud Pub/Sub
+54:02
+
+Streaming Data Challenges
+08:25
+
+
+Cloud Pub/Sub Overview
+12:29
+
+
+Pub/Sub Hands On
+18:24
+
+
+Connecting Kafka to GCP
+05:13
+
+
+Monitoring Subscriber Health
+09:31
+
+
+CHAPTER 8
+
+Data Pipelines with Cloud Dataflow
+1:06:41
+
+Data Processing Pipelines
+05:24
+
+
+Cloud Dataflow Overview
+10:10
+
+
+Key Concepts
+09:43
+
+
+Template Hands On
+11:09
+
+
+Streaming Ingest Pipeline Hands On
+20:04
+
+
+Additional Best Practices
+10:11
+
+
+CHAPTER 9
+
+Dataproc
+1:56:33
+
+Dataproc Overview
+10:49
+
+
+Configure Dataproc Cluster and Submit Job – Part 1
+15:36
+
+
+Configure Dataproc Cluster and Submit Job – Part 2
+14:36
+
+Migrating and Optimizing for Google Cloud
+09:50
+
+
+Best Practices for Cluster Performance
+05:42
+
+
+QUIZ
+QUIZ: Data Ingest and Processing
+30:00
+HANDS-ON LAB
+Running a Pyspark Job on Cloud Dataproc Using Google Cloud Storage
+30:00
+CHAPTER 10
+
+BigQuery
+2:58:16
+
+BigQuery Overview
+14:44
+
+
+Interacting with BigQuery
+22:10
+
+
+Load and Export Data
+19:02
+
+
+Optimize for Performance and Costs
+15:30
+
+
+Streaming Insert Example
+08:39
+
+
+BigQuery Logging and Monitoring
+08:18
+
+
+BigQuery Best Practices
+14:53
+
+
+QUIZ
+QUIZ: BIGQUERY
+30:00
+HANDS-ON LAB
+Create a Streaming Data Pipeline on GCP with Cloud Pub/Sub, Dataflow, and BigQuery
+45:00
+CHAPTER 11
+
+Machine Learning
+37:34
+
+What is Machine Learning?
+14:45
+
+
+Working with Neural Networks
+15:08
+
+
+Preventing Overfitted Training Data
+07:41
+
+
+CHAPTER 12
+
+AI Platform (Formerly Cloud ML Engine)
+53:31
+
+GCP Machine Learning Services
+05:57
+
+
+AI Platform Overview
+16:52
+
+AI Platform Hands On Part 1
+15:04
+
+AI Platform Hands On Part 2
+15:38
+
+CHAPTER 13
+
+Pretrained Machine Learning API's
+52:38
+
+Pre-trained ML API's
+09:10
+
+
+Vision API Demo
+13:28
+
+
+QUIZ
+QUIZ: MACHINE LEARNING ON GOOGLE CLOUD
+30:00
+CHAPTER 14
+
+Datalab
+26:34
+
+Datalab Overview
+08:45
+
+
+Datalab Demo
+17:49
+
+CHAPTER 15
+
+Cleaning Your Data with Dataprep
+51:35
+
+What is Dataprep?
+08:58
+
+
+Dataprep Demo Part 1
+14:16
+
+Dataprep Demo Part 2
+16:32
+
+Dataprep Demo Part 3
+11:49
+
+CHAPTER 16
+
+Building Data Visualizations with Data Studio
+1:07:51
+
+Data Studio Introduction
+09:32
+
+
+Data Studio Demo
+28:19
+
+QUIZ
+QUIZ: DATALAB/DATAPREP/DATA STUDIO
+30:00
+CHAPTER 17
+
+Orchestrating Data Workflows with Cloud Composer
+23:51
+
+Cloud Composer Overview
+08:26
+
+
+Hands On - Cloud Composer
+15:25
+
+
+CHAPTER 18
+
+Final Steps
+2:12:36
+
+Additional Study Resources
+02:56
+
+
+Additional Hands On and Practice Resources
+04:43
+
+What's Next After Certification?
+03:42
+
+Keep Up to Date with GCP This Month
+01:15
+
+
+PRACTICE EXAM
+Data Engineer - Final Exam
