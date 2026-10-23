@@ -1,0 +1,180 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+07:39
+
+About the Course and Learning Path
+03:54
+
+
+Milestone: Getting Started?
+03:45
+
+
+CHAPTER 2
+
+Understanding Google Cloud CI/CD Pipelines
+52:46
+
+Big Picture - CI/CD on Google Cloud
+13:43
+
+
+
+
+
+Relating SRE to CI/CD
+13:29
+
+
+
+
+What is Continuous Integration?
+03:54
+
+What is Continuous Delivery?
+04:05
+
+What is Continuous Deployment?
+08:52
+
+
+Bringing CI and CD (and CD) Together
+06:48
+Milestone: Software for the Software
+01:55
+CHAPTER 3
+
+Continuous Integration on Google Cloud
+08:20
+
+GCP Continuous Integration Concepts
+08:20
+CHAPTER 4
+
+Cloud Source Repositories
+1:34:50
+
+Cloud Source Repositories Concepts
+06:54
+CSR Hands On - Initial Setup and Deploy to Cloud Functions
+13:30
+
+CSR Hands On - Mirror GitHub and Cross-Project Access
+11:37
+HANDS-ON LAB
+Migrating Source Code to a Google Cloud Source Repository
+30:00
+HANDS-ON LAB
+Integrating Google Cloud Functions and Cloud Source Repositories
+30:00
+Milestone: Not Just Storage
+02:49
+CHAPTER 5
+
+Cloud Build
+58:46
+
+Importance of Automation
+04:09
+Cloud Build Concepts
+10:37
+Cloud Build Access Control
+02:53
+Perspective: Access Control
+03:16
+Hands On – Prepare Cloud Build Environment
+17:34
+
+Hands On – Automate Build with Triggers
+11:34
+
+Best Practices for Build Performance
+03:53
+Milestone: Cause and Effect
+04:50
+CHAPTER 6
+
+Artifact Management with Container Registry
+25:53
+
+Container Registry and Artifact Registry
+02:12
+What Is Artifact Management?
+05:27
+Container Registry Concepts
+08:06
+Container Registry Hands-On
+08:30
+Milestone: Changing Gears
+01:38
+CHAPTER 7
+
+Continuous Deployment/Delivery Overview
+18:59
+
+GCP Continuous Deployment Concepts
+04:02
+Importance of Deployment Automation
+05:32
+Deployment Models
+05:55
+Continuous Deployment Tools
+03:30
+CHAPTER 8
+
+Spinnaker
+50:04
+
+Spinnaker Concepts
+07:18
+Hands On - Set Up Spinnaker
+18:28
+
+
+Hands On – Deploy Sample App/Pipeline
+23:25
+Milestone: Are We There, Yet?
+00:53
+CHAPTER 9
+
+Securing the Deployment Pipeline
+29:32
+
+Managing Secrets
+05:23
+
+
+Container Analysis and Vulnerability Scanning
+14:51
+
+Binary Authorization
+09:18
+
+CHAPTER 10
+
+Full Development Pipeline
+50:55
+
+Full CI/CD Demo - Concepts
+05:00
+Create Spinnaker Cluster
+13:34
+
+Create App Repository and Pipelines
+17:38
+
+Deploy and Manage Application
+12:24
+Milestone: Continuity
+02:19
+
+
+
+CHAPTER 11
+
+Next Steps
+01:47
+
+Next Steps
