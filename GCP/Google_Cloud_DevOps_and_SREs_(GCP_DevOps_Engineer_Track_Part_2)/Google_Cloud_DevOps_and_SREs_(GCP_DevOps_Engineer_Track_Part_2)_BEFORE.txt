@@ -1,0 +1,79 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+09:57
+
+About the Course and Learning Path
+03:28
+
+
+About the Training Architects
+01:35
+Milestone: Getting Started...
+04:54
+
+CHAPTER 2
+
+Balancing Change, Velocity, and Service Reliability with SREs
+47:09
+
+Big Picture: What Is Site Reliability Engineering?
+13:07
+
+Understanding SLIs
+12:43
+Understanding SLOs
+07:00
+Understanding SLAs
+08:11
+Milestone: Oh My!
+06:08
+
+
+CHAPTER 3
+
+Making the Most of Risk
+23:45
+
+Setting Error Budgets
+09:01
+Defining and Reducing Toil
+08:06
+Milestone: Risky Business
+06:38
+
+CHAPTER 4
+
+Generating SRE Metrics
+26:24
+
+Monitoring Reliability
+06:56
+Alerting Principles
+08:41
+Investigating SRE Tools
+04:02
+Milestone: I See You!
+06:45
+CHAPTER 5
+
+Reacting to Incidents
+28:28
+
+Handling Incident Response
+09:45
+Managing Service Lifecycle
+06:21
+Ensuring Healthy Operations Collaboration
+06:40
+Milestone: Incidents R Us
+05:42
+
+
+CHAPTER 6
+
+Next Steps
+02:29
+
+Milestone and Continuity
