@@ -1,0 +1,47 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+04:17
+
+Course Introduction
+00:51
+
+Introduction to Google Cloud
+03:26
+CHAPTER 2
+
+Google Cloud Platform (GCP) Core Services and Concepts
+1:08:47
+
+What Is a Google Cloud Virtual Private Cloud (VPC)?
+03:59
+Fault Tolerance and High Availability in GCP
+03:03
+Compute Engine for Virtual Machines
+06:55
+Introduction to Google Cloud Storage
+05:23
+Developing within Google Cloud
+03:28
+Smart Analytics in GCP
+02:45
+The Databases of Google Cloud
+02:58
+Monitoring within GCP
+03:17
+Serverless Services
+03:44
+Deployment Tools
+03:15
+HANDS-ON LAB
+Logging In to GCP and Creating Your First VM
+30:00
+CHAPTER 3
+
+Conclusion
+02:59
+
+Course Summary
+00:45
+Conclusion and What’s Next
