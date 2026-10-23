@@ -1,0 +1,83 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+01:58
+
+Course Introduction
+01:58
+CHAPTER 2
+
+Automating Credential Management
+36:21
+
+Introduction
+02:22
+Getting Up to Speed with IAM
+08:17
+Demo: Automating Password Management
+05:49
+Demo: Rotating Secrets and Keys
+10:40
+Best Practices in Managing Credentials
+05:52
+Summary
+03:21
+CHAPTER 3
+
+Automating Policy Management
+43:17
+
+Introduction
+02:19
+Demo: Configuring Constraints on Resources Using Organization Policy
+09:44
+Introducing Policy Intelligence
+04:29
+Demo: Implementing Least Privilege Using IAM Recommender
+06:20
+Demo: Analyzing Policies Using Policy Analyzer
+06:28
+Demo: Debugging Policies Using Policy Troubleshooter
+05:15
+Demo: Securely Rolling Out Policies Using Policy Simulator
+05:01
+Summary
+03:41
+CHAPTER 4
+
+Automating Identity Management
+45:58
+
+Introduction
+02:12
+Demo: Managing User Accounts and Groups
+08:57
+Demo: Using Audit Logs to Detect Potential Security Breaches
+04:38
+Interacting with Google Services Using a Service Account
+06:53
+Demo: Monitoring Service Accounts and Service Account Keys
+08:19
+
+Best Practices in Identity Management
+11:30
+
+
+Summary
+03:29
+CHAPTER 5
+
+Conclusion
+33:33
+
+Course Summary and Next Steps
+03:33
+
+
+
+
+
+
+QUIZ
+Automating Role-Based Security in GCP
