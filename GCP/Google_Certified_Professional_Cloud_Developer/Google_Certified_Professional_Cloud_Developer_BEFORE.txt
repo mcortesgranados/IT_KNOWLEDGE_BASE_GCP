@@ -1,0 +1,356 @@
+
+Next Lessons
+Welcome to the Course thumbnail
+01:45
+Welcome to the Course
+
+CHAPTER 1.1
+
+Prerequisites and Learning Outcomes thumbnail
+02:51
+Prerequisites and Learning Outcomes
+
+CHAPTER 1.2
+
+Getting Started with GCP thumbnail
+03:18
+Getting Started with GCP
+
+CHAPTER 1.3
+
+Course Outline
+CHAPTER 1
+
+Introduction
+07:54
+
+Welcome to the Course
+01:45
+
+Prerequisites and Learning Outcomes
+02:51
+Getting Started with GCP
+03:18
+
+
+
+
+
+CHAPTER 2
+
+Fundamentals of Application Design
+1:02:29
+
+Section Introduction
+01:38
+Understanding Application Design Patterns
+13:37
+
+Embracing Cloud-Native Software Development
+06:38
+
+
+
+Utilizing Message Buses
+08:47
+
+Using Deployment Methodologies
+07:54
+
+Best Practices for Application Design
+05:58
+Application Design in Summary
+02:57
+
+
+
+
+
+
+
+
+QUIZ
+Cloud-Native Application Design Principles
+15:00
+CHAPTER 3
+
+Storage and Databases
+2:34:04
+
+Section Introduction
+01:00
+Choosing Storage Options
+06:12
+
+
+
+HANDS-ON LAB
+Basics of Google Cloud Storage
+30:00
+Using Database Services
+10:12
+
+
+HANDS-ON LAB
+Creating a Google Cloud SQL Instance and Loading Data
+30:00
+HANDS-ON LAB
+Creating Google Cloud Firestore Collections and Documents
+30:00
+HANDS-ON LAB
+Basics of Google Cloud Bigtable
+30:00
+Storage and Databases in Summary
+01:40
+QUIZ
+GCP Storage and Databases
+15:00
+CHAPTER 4
+
+Developing Applications with GCE
+3:29:14
+
+Section Introduction
+01:29
+Comparing Google Compute Engine
+02:46
+Deploying to Compute Engine
+16:45
+
+
+
+HANDS-ON LAB
+Using Bootstrap Scripts in Google Compute Engine
+30:00
+HANDS-ON LAB
+Managing Google Compute Engine Images and Instance Groups
+30:00
+HANDS-ON LAB
+Global Load Balancing with Google Compute Engine
+30:00
+Operating Compute Engine
+06:06
+HANDS-ON LAB
+Understanding Service Accounts on Google Compute Engine
+30:00
+HANDS-ON LAB
+Troubleshooting a Failed Google Compute Engine Deployment
+45:00
+Google Compute Engine in Summary
+02:08
+QUIZ
+Google Compute Engine
+15:00
+CHAPTER 5
+
+Developing Applications with GKE
+4:19:53
+
+Section Introduction
+02:14
+
+
+Comparing Google Kubernetes Engine
+04:37
+Deploying to GKE
+13:21
+
+
+
+
+
+HANDS-ON LAB
+Deploying WordPress and MySQL to GKE
+30:00
+Advanced GKE Deployments
+05:04
+
+
+
+
+HANDS-ON LAB
+Deploying GKE Rolling Updates
+30:00
+HANDS-ON LAB
+Configuring the NGINX Ingress Controller on GKE
+1:00:00
+HANDS-ON LAB
+Using ConfigMaps on GKE
+1:00:00
+Operating GKE
+06:36
+
+
+
+
+
+
+HANDS-ON LAB
+Troubleshooting GKE Deployments
+30:00
+Google Kubernetes Engine in Summary
+03:01
+
+
+QUIZ
+Google Kubernetes Engine
+15:00
+CHAPTER 6
+
+Developing Serverless Applications
+2:52:05
+
+Section Introduction
+01:39
+
+
+Comparing Serverless Platforms
+08:01
+
+
+
+
+Creating Cloud Functions
+12:17
+
+
+
+HANDS-ON LAB
+Create an HTTP Google Cloud Function
+30:00
+HANDS-ON LAB
+Triggering a Cloud Function with Cloud Pub/Sub
+30:00
+Contrasting Cloud Run
+12:16
+
+
+HANDS-ON LAB
+Cloud Run Deployments with CI/CD
+30:00
+Developing Serverless APIs Part 1
+12:51
+
+
+
+Developing Serverless APIs Part 2
+04:02
+
+Using Google APIs
+12:59
+
+
+
+
+
+
+Serverless Applications in Summary
+03:00
+
+
+QUIZ
+GCP Serverless Products
+15:00
+CHAPTER 7
+
+Application Performance Monitoring
+2:34:54
+
+Section Introduction
+01:31
+Cloud Logging
+07:33
+
+
+
+Cloud Monitoring
+10:32
+
+
+HANDS-ON LAB
+Install and Configure Monitoring Agent with Google Cloud Monitoring
+30:00
+Cloud Error Reporting
+02:18
+
+HANDS-ON LAB
+Real-Time Troubleshooting with Google Cloud Error Reporting
+30:00
+Cloud Debugger
+05:19
+
+
+Cloud Trace
+05:26
+
+
+HANDS-ON LAB
+Discovering Latency with Google Cloud Trace
+45:00
+Application Performance Monitoring in Summary
+02:15
+QUIZ
+GCP Application Performance Monitoring
+15:00
+CHAPTER 8
+
+Application Security
+1:43:30
+
+Section Introduction
+01:32
+Identity and Access Management
+05:39
+
+
+Using a Service Mesh with Microservices
+03:24
+
+HANDS-ON LAB
+Using Workload Identity on GKE
+1:00:00
+Scanning for Security Vulnerabilities in GCP
+07:48
+
+
+
+
+Security Best Practices
+10:07
+
+
+
+
+
+
+
+QUIZ
+GCP Application Security
+15:00
+CHAPTER 9
+
+Conclusion
+2:10:21
+
+Preparing for the Exam
+06:04
+
+Further Resources
+03:19
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRACTICE EXAM
+Google Certified Professional Cloud Developer
+2:00:00
+Thank You and Good Luck!
