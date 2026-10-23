@@ -1,0 +1,225 @@
+
+Next Lessons
+Course Introduction thumbnail
+02:40
+Course Introduction
+
+CHAPTER 1.1
+
+Course Prerequisites thumbnail
+02:03
+Course Prerequisites
+
+CHAPTER 1.2
+
+Exam Guide Walkthrough thumbnail
+09:05
+Exam Guide Walkthrough
+
+CHAPTER 1.3
+
+Course Outline
+CHAPTER 1
+
+Introduction
+13:48
+
+Course Introduction
+02:40
+
+
+Course Prerequisites
+02:03
+Exam Guide Walkthrough
+09:05
+
+CHAPTER 2
+
+Laying the Foundation
+1:18:19
+
+Section Introduction
+01:34
+Digital Transformation in the Cloud Age
+12:40
+Meeting Modern Organizational Challenges
+09:00
+Understanding Key Concepts
+10:51
+Managing Cloud Computing Costs
+10:10
+
+Section Summary
+04:04
+QUIZ
+Laying the Foundation
+30:00
+CHAPTER 3
+
+Building with Data
+3:17:10
+
+Section Introduction
+01:02
+Living in a Data-Driven World
+07:46
+Exploring Data Types and Services
+07:37
+Looking into Google Cloud Data Solutions
+12:01
+
+Section Summary
+03:44
+HANDS-ON LAB
+Adding and Querying Data in Cloud Firestore
+1:45:00
+HANDS-ON LAB
+Creating a Folder and Uploading an Object in Cloud Storage
+30:00
+QUIZ
+Building with Data
+30:00
+CHAPTER 4
+
+Growing with Artificial Intelligence
+2:45:32
+
+Section Introduction
+01:34
+Understanding AI and Machine Learning
+07:40
+Realizing the Potential of Machine Learning
+09:27
+Investigating the GCP AI Ecosystem
+08:12
+Section Summary
+03:39
+HANDS-ON LAB
+Identifying Landmarks with Vision API
+45:00
+HANDS-ON LAB
+Powering Google Cloud APIs with Cloud Functions
+1:00:00
+QUIZ
+Growing with Artificial Intelligence
+30:00
+CHAPTER 5
+
+Upscaling Infrastructure in the Digital Era
+2:10:20
+
+Section Introduction
+01:10
+Defining Infrastructure, Old and New
+07:52
+
+
+Working with Compute Services
+06:21
+Discovering GCP Compute Options
+06:38
+Section Summary
+03:19
+HANDS-ON LAB
+Managing Google Compute Engine Images and Instance Groups
+30:00
+HANDS-ON LAB
+Setting Off Fireworks with Cloud Functions
+45:00
+QUIZ
+Upscaling Infrastructure in the Digital Era
+30:00
+CHAPTER 6
+
+Modernizing Software Applications
+1:36:01
+
+Section Introduction
+02:10
+Transitioning Traditional App Development and Deployment
+07:00
+Creating Cloud-Friendly Development Environments
+08:50
+Migrating Applications to GCP
+07:09
+Maximizing Legacy Data and Creating New Value through APIs
+06:14
+Section Summary
+04:38
+HANDS-ON LAB
+Deploying WordPress and MySQL to GKE
+30:00
+QUIZ
+Modernizing Software Applications
+30:00
+CHAPTER 7
+
+Securing Cloud-Centric Organizations
+2:46:00
+
+Section Introduction
+01:25
+Understanding Cloud Security Concerns
+06:28
+Recognizing and Facing Security Risks
+09:45
+Considering Cybersecurity Best Practices
+13:33
+Maintaining Security on Google Cloud
+10:17
+Section Summary
+04:32
+HANDS-ON LAB
+Using Workload Identity on GKE
+1:00:00
+HANDS-ON LAB
+Using Cloud Run with Secret Manager
+30:00
+QUIZ
+Securing Cloud-Centric Organizations
+30:00
+CHAPTER 8
+
+Maximizing Ongoing Applications
+1:49:42
+
+Section Introduction
+01:35
+Keeping Deployed Apps Operational
+10:44
+Applying SRE Principles
+10:50
+Uncovering GCP Operations Services
+07:35
+
+Section Summary
+03:58
+HANDS-ON LAB
+Creating an Alerting Policy with Cloud Monitoring
+45:00
+QUIZ
+Maximizing Ongoing Applications
+30:00
+CHAPTER 9
+
+Conclusion
+3:56:17
+
+Preparing for the Exam
+08:56
+
+
+
+
+Conclusion and What’s Next
+02:21
+
+PRACTICE EXAM
+Google Cloud Certified Cloud Digital Leader - Practice Exam - 1
+1:15:00
+PRACTICE EXAM
+Google Cloud Certified Cloud Digital Leader - Practice Exam - 2
+1:15:00
+PRACTICE EXAM
+Google Cloud Certified Cloud Digital Leader - Practice Exam - 3
+1:15:00
