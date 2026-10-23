@@ -1,0 +1,73 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+04:04
+
+Course Introduction
+02:56
+
+About the Training Architect
+01:08
+CHAPTER 2
+
+Overview
+34:51
+
+What Is AI/ML?
+12:58
+Understanding Google Cloud AI and Machine Learning
+10:10
+Targeting Cloud AutoML
+11:43
+CHAPTER 3
+
+AI Sight
+26:20
+
+Identifying Images with Vision AI
+16:33
+Examining Video AI
+09:47
+CHAPTER 4
+
+AI Language
+20:54
+
+Extracting Data with Natural Language
+12:48
+Automating Translation
+08:06
+CHAPTER 5
+
+AI Conversation
+1:19:31
+
+Recognizing Speech-to-Text
+09:11
+Empowering Text-to-Speech
+11:11
+Conversing with Dialogflow
+14:09
+HANDS-ON LAB
+Setting Up Google Cloud Text-to-Speech
+45:00
+CHAPTER 6
+
+AI Structured Data
+23:11
+
+Structuring AutoML Tables
+10:15
+Establishing Recommendations
+04:56
+Executing BigQuery ML
+08:00
+CHAPTER 7
+
+Next Steps
+03:10
+
+Summary
+02:16
+What's Next?
