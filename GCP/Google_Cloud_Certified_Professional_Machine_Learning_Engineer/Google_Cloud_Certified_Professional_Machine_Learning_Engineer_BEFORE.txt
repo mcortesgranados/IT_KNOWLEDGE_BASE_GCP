@@ -1,0 +1,221 @@
+Course Outline
+CHAPTER 1
+
+Introduction
+35:57
+
+Course Introduction
+01:42
+
+Machine Learning Scenario
+04:21
+What Is Machine Learning?
+12:12
+Understanding GCP's Machine Learning Products
+09:15
+Google's Responsible AI Practices
+08:27
+CHAPTER 2
+
+Framing Machine Learning Problems
+2:42:43
+
+Introduction
+04:38
+Translating Business Challenges into Machine Learning Use Cases
+12:43
+Exploring GCP's Prepackaged Machine Learning Solutions
+11:15
+HANDS-ON LAB
+Detecting Shot Changes with the Video Intelligence API
+30:00
+HANDS-ON LAB
+Classifying Content with the Natural Language API
+45:00
+Defining Machine Learning Problems
+13:04
+Defining Business Success Criteria
+04:08
+Tracking and Running Machine Learning Experiments
+04:08
+Identifying Risks to the Feasibility of Machine Learning Solutions
+08:49
+Summary
+05:24
+Exam Tips
+08:34
+QUIZ
+Framing Machine Learning Problems
+15:00
+CHAPTER 3
+
+Architecting Low-Code Machine Learning Solutions
+3:28:30
+
+Introduction
+03:03
+Matching Machine Learning Services to Their Use Cases
+12:27
+HANDS-ON LAB
+Powering Google Cloud APIs with Cloud Functions
+1:00:00
+Understanding Machine Learning Component Types
+05:16
+Demo: Removing Sensitive Data with Cloud Data Loss Prevention
+11:13
+Exploring and Analyzing Data
+12:09
+HANDS-ON LAB
+Using BigQuery to Explore and Analyze Data
+45:00
+Automating, Orchestrating, Serving, and Monitoring Machine Learning Projects
+09:37
+Choosing Google Cloud Hardware Components
+08:17
+Demo: Using GPU and TPU Hardware to Accelerate Machine Learning Pipelines
+08:48
+Designing Architecture in Compliance with Security Concerns
+08:26
+
+Summary
+03:56
+Exam Tips
+05:18
+QUIZ
+Architecting Low-Code Machine Learning Solutions
+15:00
+CHAPTER 4
+
+Collaborating Within and Across Teams to Manage Data and Models
+2:29:25
+
+Introduction
+01:30
+Understanding Data Preparation and Processing
+12:16
+Exploring Data with Exploratory Data Analysis (EDA)
+10:44
+Demo: Prototyping Machine Learning Models with Vertex AI Workbench
+12:25
+Building Artificial Intelligence Solutions with Machine Learning APIs
+05:47
+Demo: Using Document AI to Process Documents at Scale
+05:41
+Collaborative Model Prototyping Using Jupyter Notebooks
+05:40
+Building Data Pipelines
+06:56
+HANDS-ON LAB
+Setting Up Google Cloud Text-to-Speech
+45:00
+Feature Engineering
+13:38
+Demo: Creating and Consolidating Features with Vertex AI Feature Store
+06:55
+Summary
+04:19
+Exam Tips
+03:34
+QUIZ
+Collaborating Within and Across Teams to Manage Data and Models
+15:00
+CHAPTER 5
+
+Prototyping and Developing Machine Learning Models
+2:04:28
+
+Introduction
+01:35
+Overview of Building Models
+09:35
+Training Models
+07:48
+Demo: Creating and Serving a Machine Learning Model Using Vertex AI and AutoML
+08:05
+Testing Models
+07:53
+Demo: Building a Machine Learning Model with BigQuery ML
+13:16
+HANDS-ON LAB
+Deploying an ML Model with Cloud Run
+30:00
+Demo: Creating a Distributed Vertex AI Job
+07:15
+Scaling Model Training and Serving
+05:19
+Demo: Tuning Hyperparameters
+08:52
+Summary
+06:11
+Exam Tips
+03:39
+QUIZ
+Prototyping and Developing Machine Learning Models
+15:00
+CHAPTER 6
+
+Scaling and Serving Models
+1:39:19
+
+Introduction
+01:28
+Designing and Implementing Training Pipelines
+09:14
+Implementing Serving Pipelines
+09:21
+HANDS-ON LAB
+Establishing a Dialogflow Webhook
+45:00
+Tracking and Auditing Metadata
+06:33
+Demo: Automating Model Training
+06:30
+Summary
+02:38
+Exam Tips
+03:35
+QUIZ
+Scaling and Serving Models
+15:00
+CHAPTER 7
+
+Monitoring, Optimizing, and Maintaining Machine Learning Solutions
+40:52
+
+Introduction
+02:23
+Monitoring and Troubleshooting Machine Learning Solutions
+11:02
+Tuning the Performance of Machine Learning Solutions for Training and Serving in Production
+06:25
+Summary
+02:21
+Exam Tips
+03:41
+QUIZ
+Monitoring, Optimizing, and Maintaining Machine Learning Solutions
+15:00
+CHAPTER 8
+
+Practice Exam
+2:25:28
+
+Preparing for the Exam
+10:28
+PRACTICE EXAM
+Google Cloud Certified Professional Machine Learning Engineer Practice Exam #1
+45:00
+PRACTICE EXAM
+Google Cloud Certified Professional Machine Learning Engineer Practice Exam #2
+45:00
+PRACTICE EXAM
+Google Cloud Certified Professional Machine Learning Engineer Practice Exam #3
+45:00
+CHAPTER 9
+
+Conclusion
+09:56
+
+Course Summary
+04:13
+Conclusion and What's Next
