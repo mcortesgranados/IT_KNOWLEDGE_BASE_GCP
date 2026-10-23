@@ -1,0 +1,39 @@
+Course Outline
+CHAPTER 1
+
+Introduction to Infrastructure as Code (IAC) on GCP
+38:45
+
+Creating Infrastructure as Code
+04:06
+Understanding APIs
+07:49
+Exploring Cloud Shell
+10:01
+
+Managing Versions with Git
+10:48
+
+Putting It All Together
+06:01
+CHAPTER 2
+
+Deployment Manager
+1:00:06
+
+Creating a VM with GCP Deployment Manager
+12:50
+
+Deploy Dependent Resources
+08:45
+Templates That Use Templates
+08:31
+HANDS-ON LAB
+Updating Existing Deployments
+30:00
+CHAPTER 3
+
+Wrapping up IAC on GCP
+01:19
+
+Ready for Action!
